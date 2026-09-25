@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cap Citoyenneté 🍁
 
 Application locale Flask de préparation à l’examen de citoyenneté canadienne.
@@ -29,3 +30,7 @@ Ouvrir ensuite `http://127.0.0.1:5000`.
 ## Important
 
 Le contenu est un outil d’entraînement non officiel. Toujours réviser le guide officiel **Découvrir le Canada**. Les fonctions ou titulaires politiques susceptibles de changer doivent être vérifiés avant l’examen.
+=======
+# capcitoyen
+Préparation à la citoyenneté canadienne
+>>>>>>> f7bf5316f6bab65f3adbcb8149fd6677132af945
