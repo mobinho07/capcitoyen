@@ -203,5 +203,8 @@ def submit():
 if __name__ == "__main__":
     DATA_DIR.mkdir(exist_ok=True)
     if not QUESTIONS_FILE.exists():
-        raise SystemExit("Exécutez d’abord: python generate_questions.py")
-    app.run(host="127.0.0.1", port=5000, debug=True)
+        import subprocess
+        import sys
+        subprocess.run([sys.executable, str(BASE_DIR / "generate_questions.py")], check=True)
+    port = int(os.environ.get("PORT", "5000"))
+    app.run(host="0.0.0.0", port=port, debug=False)
