@@ -1,0 +1,2258 @@
+[
+  {
+    "id": "q001",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Au Canada, les hommes et les femmes possèdent-ils les mêmes droits devant la loi ?",
+    "choices": [
+      "Non, les hommes ont plus de droits civiques",
+      "Oui, l'égalité des sexes est un droit fondamental garanti par la loi",
+      "Uniquement dans le domaine du sport",
+      "Seulement s'ils sont mariés"
+    ],
+    "answer": "Oui, l'égalité des sexes est un droit fondamental garanti par la loi",
+    "explanation": "Réponse : Oui, l'égalité des sexes est un droit fondamental garanti par la loi. La Charte interdit explicitement toute discrimination basée sur le sexe ou le genre.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q002",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Comment la loi considère-t-elle les femmes et les hommes?",
+    "choices": [
+      "Ils sont égaux devant la loi",
+      "L’égalité ne concerne que le travail",
+      "Les droits dépendent de la province",
+      "Les hommes ont priorité"
+    ],
+    "answer": "Ils sont égaux devant la loi",
+    "explanation": "L’égalité entre les femmes et les hommes est une valeur et un droit fondamentaux.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q003",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Laquelle est une responsabilité liée à la citoyenneté?",
+    "choices": [
+      "Posséder une maison",
+      "Travailler pour le gouvernement",
+      "Faire partie d’un jury lorsqu’on est appelé",
+      "Parler trois langues"
+    ],
+    "answer": "Faire partie d’un jury lorsqu’on est appelé",
+    "explanation": "Servir comme juré lorsqu’on est convoqué est une responsabilité civique.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q004",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Lequel des énoncés suivants représente l'une des quatre libertés fondamentales énoncées par la Charte canadienne ?",
+    "choices": [
+      "La liberté de conduire sans permis",
+      "La liberté de réunion pacifique",
+      "Le droit à un revenu garanti",
+      "La liberté de ne pas payer de taxes"
+    ],
+    "answer": "La liberté de réunion pacifique",
+    "explanation": "Réponse : La liberté de réunion pacifique. Cela permet aux citoyens de se rassembler légalement pour manifester ou s'associer librement.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q005",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Que signifie la primauté du droit?",
+    "choices": [
+      "Tous, y compris les gouvernements, sont soumis à la loi",
+      "La police rédige toutes les lois",
+      "Seuls les citoyens sont soumis à la loi",
+      "Le gouvernement peut ignorer les tribunaux"
+    ],
+    "answer": "Tous, y compris les gouvernements, sont soumis à la loi",
+    "explanation": "La loi s’applique aux citoyens, aux institutions et aux gouvernements.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q006",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Que signifie le concept de 'primauté du droit' au Canada ?",
+    "choices": [
+      "Les politiciens sont au-dessus des lois ordinaires",
+      "La loi s'applique de la même manière à tout le monde, y compris aux gouvernants",
+      "Seuls les avocats ont des droits civiques",
+      "Le gouvernement peut modifier les lois sans l'accord du Parlement"
+    ],
+    "answer": "La loi s'applique de la même manière à tout le monde, y compris aux gouvernants",
+    "explanation": "Réponse : La loi s'applique de la même manière à tout le monde, y compris aux gouvernants. C'est un pilier démocratique qui garantit que personne n'est supérieur aux lois du pays.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q007",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Quel droit fondamental de la Charte protège votre droit de pratiquer la religion de votre choix ou de n'en pratiquer aucune ?",
+    "choices": [
+      "La liberté de conscience et de religion",
+      "Le droit à la sécurité",
+      "La liberté d'expression commerciale",
+      "Le droit à l'égalité salariale"
+    ],
+    "answer": "La liberté de conscience et de religion",
+    "explanation": "Réponse : La liberté de conscience et de religion. Cette liberté fondamentale empêche l'État d'imposer des croyances religieuses à ses citoyens.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q008",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Quel droit permet de choisir ses représentants?",
+    "choices": [
+      "Le droit de propriété",
+      "Le droit de voyager",
+      "Le droit de vote",
+      "Le droit à un emploi"
+    ],
+    "answer": "Le droit de vote",
+    "explanation": "Les citoyens canadiens adultes peuvent participer aux élections en votant.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q009",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Quelle est l'une des responsabilités liées à la citoyenneté concernant l'environnement ?",
+    "choices": [
+      "Éviter de voyager à l'étranger",
+      "Avoir la responsabilité de recycler et de protéger le patrimoine naturel canadien",
+      "Travailler obligatoirement dans les parcs nationaux",
+      "Ne pas utiliser d'électricité"
+    ],
+    "answer": "Avoir la responsabilité de recycler et de protéger le patrimoine naturel canadien",
+    "explanation": "Réponse : Avoir la responsabilité de recycler et de protéger le patrimoine naturel canadien. Prendre soin de l'environnement fait partie des valeurs civiques partagées par les Canadiens.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q010",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Quelle liberté protège la possibilité d’exprimer ses idées?",
+    "choices": [
+      "La liberté de taxation",
+      "La liberté d’expression",
+      "La liberté de résidence",
+      "La liberté administrative"
+    ],
+    "answer": "La liberté d’expression",
+    "explanation": "La liberté de pensée, de croyance, d’opinion et d’expression est fondamentale.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q011",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Quelles sont les deux langues officielles du Canada?",
+    "choices": [
+      "Le français seulement",
+      "Le français et l’anglais",
+      "L’anglais et l’espagnol",
+      "Le français et l’inuktitut"
+    ],
+    "answer": "Le français et l’anglais",
+    "explanation": "Le français et l’anglais ont un statut officiel égal au Parlement et au gouvernement fédéral.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q012",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Qui a le droit de demander un passeport canadien et de se présenter comme candidat à une élection fédérale ?",
+    "choices": [
+      "Tous les résidents permanents",
+      "Uniquement les citoyens canadiens",
+      "Toute personne qui travaille au Canada",
+      "Les investisseurs étrangers"
+    ],
+    "answer": "Uniquement les citoyens canadiens",
+    "explanation": "Réponse : Uniquement les citoyens canadiens. Ce sont des droits exclusifs rattachés à la citoyenneté canadienne légale.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q013",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "À qui l'examen de citoyenneté canadienne s'adresse-t-il obligatoirement lors du processus de naturalisation ?",
+    "choices": [
+      "À tous les nouveaux-nés au Canada",
+      "Aux résidents permanents âgés de 18 à 54 ans",
+      "Uniquement aux travailleurs agricoles temporaires",
+      "Aux diplomates étrangers"
+    ],
+    "answer": "Aux résidents permanents âgés de 18 à 54 ans",
+    "explanation": "Réponse : Aux résidents permanents âgés de 18 à 54 ans. C'est la tranche d'âge adulte qui doit démontrer ses connaissances sur le pays avant de prêter serment.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q014",
+    "module_id": "identite",
+    "module": "Qui sommes-nous?",
+    "module_order": 2,
+    "question": "Que reconnaît le multiculturalisme canadien?",
+    "choices": [
+      "La diversité culturelle comme caractéristique de l’identité canadienne",
+      "La séparation des provinces",
+      "L’interdiction des traditions",
+      "Une culture unique obligatoire"
+    ],
+    "answer": "La diversité culturelle comme caractéristique de l’identité canadienne",
+    "explanation": "Le multiculturalisme valorise la diversité tout en respectant les lois et valeurs communes.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q015",
+    "module_id": "identite",
+    "module": "Qui sommes-nous?",
+    "module_order": 2,
+    "question": "Que signifie le mot Inuit?",
+    "choices": [
+      "Le Nord",
+      "Le peuple",
+      "La neige",
+      "Les chasseurs"
+    ],
+    "answer": "Le peuple",
+    "explanation": "Inuit signifie « le peuple » en inuktitut.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q016",
+    "module_id": "identite",
+    "module": "Qui sommes-nous?",
+    "module_order": 2,
+    "question": "Quels sont les trois principaux peuples autochtones reconnus?",
+    "choices": [
+      "Premières Nations, Québécois et Inuit",
+      "Premières Nations, Inuit et Métis",
+      "Métis, Vikings et Canadiens",
+      "Acadiens, Inuit et Loyalistes"
+    ],
+    "answer": "Premières Nations, Inuit et Métis",
+    "explanation": "La Constitution reconnaît les Premières Nations, les Inuit et les Métis.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q017",
+    "module_id": "identite",
+    "module": "Qui sommes-nous?",
+    "module_order": 2,
+    "question": "Qui sont les Métis?",
+    "choices": [
+      "Des colons britanniques seulement",
+      "Un peuple autochtone distinct issu notamment d’unions entre Autochtones et Européens",
+      "Une nation européenne",
+      "Tous les nouveaux immigrants"
+    ],
+    "answer": "Un peuple autochtone distinct issu notamment d’unions entre Autochtones et Européens",
+    "explanation": "Les Métis forment un peuple autochtone distinct avec sa propre identité et culture.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q018",
+    "module_id": "identite",
+    "module": "Qui sommes-nous?",
+    "module_order": 2,
+    "question": "Qui sont les Québécois?",
+    "choices": [
+      "Tous les francophones du monde",
+      "Uniquement les personnes nées en France",
+      "Seulement les habitants de Québec-ville",
+      "Les habitants du Québec, majoritairement francophones et porteurs d’une identité particulière"
+    ],
+    "answer": "Les habitants du Québec, majoritairement francophones et porteurs d’une identité particulière",
+    "explanation": "Le guide reconnaît la contribution particulière du Québec et de sa majorité francophone.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q019",
+    "module_id": "identite",
+    "module": "Qui sommes-nous?",
+    "module_order": 2,
+    "question": "Qu’est-ce que l’Acadie historique?",
+    "choices": [
+      "La première capitale du Canada",
+      "Une colonie espagnole",
+      "Un territoire du Grand Nord",
+      "Une colonie française établie dans les Maritimes"
+    ],
+    "answer": "Une colonie française établie dans les Maritimes",
+    "explanation": "Les Acadiens sont les descendants de colons français établis dans les Maritimes dès 1604.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q020",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Comment appelait-on le réseau clandestin de routes et de refuges qui a permis à des milliers d'esclaves afro-américains de fuir vers la liberté au Canada au XIXe siècle ?",
+    "choices": [
+      "Le chemin de fer clandestin (Underground Railroad)",
+      "La Voie de la liberté",
+      "La piste de la baie d'Hudson",
+      "Le convoi du Nord"
+    ],
+    "answer": "Le chemin de fer clandestin (Underground Railroad)",
+    "explanation": "Réponse : Le chemin de fer clandestin (Underground Railroad). Des figures héroïques comme Harriet Tubman ont guidé les réfugiés vers des provinces comme l'Ontario.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q021",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Comment appelle-t-on les colons américains fidèles à la Couronne britannique qui ont fui vers le Canada après la révolution américaine de 1776 ?",
+    "choices": [
+      "Les Voyageurs",
+      "Les Loyalistes",
+      "Les Acadiens",
+      "Les Patriotes"
+    ],
+    "answer": "Les Loyalistes",
+    "explanation": "Réponse : Les Loyalistes. Leur nom reflète leur fidélité ('loyalty') au roi George III britannique.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q022",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Comment appelle-t-on les soulèvements populaires armés qui ont éclaté en 1837-1838 pour réclamer un gouvernement responsable face au gouverneur britannique ?",
+    "choices": [
+      "Les rébellions des Patriotes (et du Haut-Canada)",
+      "La guerre des Tuques",
+      "La révolte du blé",
+      "La résistance de la rivière Rouge"
+    ],
+    "answer": "Les rébellions des Patriotes (et du Haut-Canada)",
+    "explanation": "Réponse : Les rébellions des Patriotes (et du Haut-Canada). Ces insurrections ont eu lieu au Bas-Canada (dirigées par Papineau) et au Haut-Canada (dirigées par Mackenzie).",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q023",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "En quelle année la Confédération canadienne a-t-elle été créée?",
+    "choices": [
+      "1867",
+      "1759",
+      "1812",
+      "1982"
+    ],
+    "answer": "1867",
+    "explanation": "L’Acte de l’Amérique du Nord britannique est entré en vigueur le 1er juillet 1867.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q024",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Qu'appelle-t-on le 'Grand Dérangement' de 1755 dans l'histoire canadienne ?",
+    "choices": [
+      "La révolte des Treize Colonies américaines",
+      "La crise économique de la décennie 1930",
+      "La déportation des Acadiens par les autorités britanniques",
+      "La signature du traité de Paris cédant la Nouvelle-France"
+    ],
+    "answer": "La déportation des Acadiens par les autorités britanniques",
+    "explanation": "Réponse : La déportation des Acadiens par les autorités britanniques. Cet événement tragique a touché la population francophone de la région maritime actuelle.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q025",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel aviateur canadien de la Première Guerre mondiale a été surnommé l'As des as après avoir abattu 72 avions ennemis ?",
+    "choices": [
+      "Billy Bishop",
+      "Roy Brown",
+      "Arthur Currie",
+      "Alexander Roberts Dunn"
+    ],
+    "answer": "Billy Bishop",
+    "explanation": "Réponse : Billy Bishop. Il a reçu la Croix de Victoria pour ses exploits aériens exceptionnels.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q026",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel conflit opposant la Grande-Bretagne aux États-Unis a vu le territoire canadien être envahi mais défendu avec succès par les Britanniques, les Canadiens et les Autochtones ?",
+    "choices": [
+      "La guerre de Sept Ans",
+      "La guerre de 1812",
+      "La guerre des Boers",
+      "La rébellion du Haut-Canada"
+    ],
+    "answer": "La guerre de 1812",
+    "explanation": "Réponse : La guerre de 1812. Cette guerre s'est terminée par un statu quo en 1814 et a consolidé les bases de l'identité canadienne.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q027",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel explorateur anglais naviguant pour le compte de l'Angleterre a cartographié la côte est (Terre-Neuve) en 1497 ?",
+    "choices": [
+      "John Cabot (Giovanni Caboto)",
+      "Henry Hudson",
+      "Christopher Columbus",
+      "James Cook"
+    ],
+    "answer": "John Cabot (Giovanni Caboto)",
+    "explanation": "Réponse : John Cabot (Giovanni Caboto). Il a découvert d'immenses bancs de morues qui ont attiré les pêcheurs européens.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q028",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel groupe d'autochtones, distincts des Premières Nations et des Inuits, possède une culture mixte (européenne et autochtone) issue de l'Ouest canadien ?",
+    "choices": [
+      "Les Vikings",
+      "Les Loyalistes",
+      "Les Métis",
+      "Les Acadiens"
+    ],
+    "answer": "Les Métis",
+    "explanation": "Réponse : Les Métis. Leur nom vient directement de leur origine mixte et ils ont pour figure emblématique Louis Riel.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q029",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel ingénieur canadien a inventé le système des fuseaux horaires normalisés utilisés aujourd'hui dans le monde entier ?",
+    "choices": [
+      "Sir Sandford Fleming",
+      "Joseph-Armand Bombardier",
+      "Mathew Evans",
+      "Reginald Fessenden"
+    ],
+    "answer": "Sir Sandford Fleming",
+    "explanation": "Réponse : Sir Sandford Fleming. Il a proposé ce système mondial pour résoudre les problèmes de planification des chemins de fer au XIXe siècle.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q030",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel leader métis a mené une rébellion armée dans l'Ouest pour défendre les droits fonciers de son peuple, menant à la création du Manitoba en 1870 ?",
+    "choices": [
+      "Louis Riel",
+      "Gabriel Dumont",
+      "Poundmaker",
+      "Big Bear"
+    ],
+    "answer": "Louis Riel",
+    "explanation": "Réponse : Louis Riel. Considéré comme le père du Manitoba, il a été exécuté pour haute trahison en 1885 après la Rébellion du Nord-Ouest.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q031",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel premier ministre canadien a fait adopter la Loi sur les langues officielles en 1969, établissant la pleine égalité du français et de l'anglais ?",
+    "choices": [
+      "John Diefenbaker",
+      "Lester B. Pearson",
+      "Pierre Elliott Trudeau",
+      "Brian Mulroney"
+    ],
+    "answer": "Pierre Elliott Trudeau",
+    "explanation": "Réponse : Pierre Elliott Trudeau. Il est également l'artisan du rapatriement de la Constitution et de la Charte des droits en 1982.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q032",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel scientifique canadien a co-découvert l'insuline en 1921, sauvant ainsi des millions de personnes atteintes de diabète ?",
+    "choices": [
+      "Sir Frederick Banting",
+      "Alexander Graham Bell",
+      "Sandford Fleming",
+      "Wilder Penfield"
+    ],
+    "answer": "Sir Frederick Banting",
+    "explanation": "Réponse : Sir Frederick Banting. Cette découverte médicale majeure lui a valu le prix Nobel de médecine en 1923.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q033",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel système d'écoles assimilatrices forcées pour les enfants autochtones a été mis en place par le gouvernement canadien du XIXe siècle à la fin du XXe siècle ?",
+    "choices": [
+      "Les écoles de rang",
+      "Les instituts techniques",
+      "Les pensionnats indiens",
+      "Les collèges classiques"
+    ],
+    "answer": "Les pensionnats indiens",
+    "explanation": "Réponse : Les pensionnats indiens. Des milliers d'enfants y ont été retirés de leur famille pour éliminer leur culture et leur langue d'origine.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q034",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel texte de loi britannique de 1774 a garanti aux Canadiens français la liberté religieuse et le maintien du droit civil français ?",
+    "choices": [
+      "L'Acte constitutionnel",
+      "L'Acte de Québec",
+      "L'Acte d'Union",
+      "La Proclamation royale"
+    ],
+    "answer": "L'Acte de Québec",
+    "explanation": "Réponse : L'Acte de Québec. Cette loi visait à s'assurer la fidélité des Canadiens francophones à la veille de la révolution américaine.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q035",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel traité signé en 1763 a officiellement mis fin à la guerre de Sept Ans, cédant la Nouvelle-France à la Grande-Bretagne ?",
+    "choices": [
+      "Le traité de Versailles",
+      "Le traité d'Utrecht",
+      "Le traité de Paris",
+      "Le traité de Gand"
+    ],
+    "answer": "Le traité de Paris",
+    "explanation": "Réponse : Le traité de Paris. Ce traité historique a redessiné la carte de l'Amérique du Nord en faveur de l'Empire britannique.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q036",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quelle bataille de 1759 fut décisive pour la Nouvelle-France?",
+    "choices": [
+      "La bataille de Vimy",
+      "La bataille de Dieppe",
+      "La bataille des plaines d’Abraham",
+      "La bataille de Queenston Heights"
+    ],
+    "answer": "La bataille des plaines d’Abraham",
+    "explanation": "La victoire britannique aux plaines d’Abraham a mené à la fin du régime français.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q037",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quelle compagnie de commerce, fondée en 1670, contrôlait autrefois un immense réseau de traite des fourrures s'étendant sur la Terre de Rupert ?",
+    "choices": [
+      "La Compagnie du Nord-Ouest",
+      "La Compagnie des Cent-Associés",
+      "La Compagnie de la Baie d'Hudson",
+      "La Compagnie des Indes occidentales"
+    ],
+    "answer": "La Compagnie de la Baie d'Hudson",
+    "explanation": "Réponse : La Compagnie de la Baie d'Hudson. C'est l'une des plus anciennes entreprises commerciales du monde, connue aujourd'hui sous le nom 'La Baie'.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q038",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quelle contribution canadienne majeure à l'échelle internationale a valu à Lester B. Pearson le prix Nobel de la paix en 1957 ?",
+    "choices": [
+      "La création des forces de maintien de la paix de l'ONU (Casques bleus) lors de la crise de Suez",
+      "La signature du traité de l'OTAN",
+      "Le développement du vaccin contre la polio",
+      "L'invention du radar moderne"
+    ],
+    "answer": "La création des forces de maintien de la paix de l'ONU (Casques bleus) lors de la crise de Suez",
+    "explanation": "Réponse : La création des forces de maintien de la paix de l'ONU (Casques bleus) lors de la crise de Suez. Il a proposé une force militaire neutre pour superviser le retrait des troupes et apaiser le conflit en Égypte.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q039",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quelle crise constitutionnelle de 1840 a vu l'union forcée du Haut et du Bas-Canada à la suite du rapport de Lord Durham ?",
+    "choices": [
+      "L'Acte d'Union",
+      "La Confédération",
+      "La Proclamation royale",
+      "Le traité de Paris"
+    ],
+    "answer": "L'Acte d'Union",
+    "explanation": "Réponse : L'Acte d'Union. Cette loi a réuni les deux colonies en une seule province appelée la Province du Canada.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q040",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quelle infrastructure de transport colossale achevée en 1885 a permis de lier physiquement l'Est et l'Ouest du Canada ?",
+    "choices": [
+      "La Voie maritime du Saint-Laurent",
+      "Le chemin de fer Canadien Pacifique",
+      "La route Transcanadienne",
+      "Le canal de Lachine"
+    ],
+    "answer": "Le chemin de fer Canadien Pacifique",
+    "explanation": "Réponse : Le chemin de fer Canadien Pacifique. Sa construction faisait partie des promesses faites à la Colombie-Britannique pour qu'elle rejoigne la Confédération.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q041",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quelle loi adoptée par le Parlement britannique en 1931 a accordé au Canada sa pleine autonomie législative ?",
+    "choices": [
+      "L'Acte d'Union",
+      "L'Acte de l'Amérique du Nord britannique",
+      "Le Statut de Westminster",
+      "La Déclaration des droits"
+    ],
+    "answer": "Le Statut de Westminster",
+    "explanation": "Réponse : Le Statut de Westminster. C'est l'étape historique majeure qui a confirmé l'indépendance politique des dominions de l'Empire.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q042",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Qui a exploré le fleuve Saint-Laurent en 1534?",
+    "choices": [
+      "Samuel de Champlain",
+      "James Cook",
+      "John Cabot",
+      "Jacques Cartier"
+    ],
+    "answer": "Jacques Cartier",
+    "explanation": "Jacques Cartier a pris possession du territoire au nom du roi de France.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q043",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Qui a fondé Québec en 1608?",
+    "choices": [
+      "Louis Riel",
+      "John A. Macdonald",
+      "Jacques Cartier",
+      "Samuel de Champlain"
+    ],
+    "answer": "Samuel de Champlain",
+    "explanation": "Champlain a établi Québec, premier établissement permanent français important.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q044",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Qui a été la première femme de l'histoire canadienne à être élue députée à la Chambre des communes en 1921 ?",
+    "choices": [
+      "Nellie McClung",
+      "Agnes Macphail",
+      "Therese Casgrain",
+      "Emily Murphy"
+    ],
+    "answer": "Agnes Macphail",
+    "explanation": "Réponse : Agnes Macphail. Elle a été une ardente défenseure des droits des femmes et de la réforme du système carcéral.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q045",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Qui furent les premiers Européens connus à atteindre le Canada?",
+    "choices": [
+      "Les Portugais",
+      "Les Vikings",
+      "Les Romains",
+      "Les Espagnols"
+    ],
+    "answer": "Les Vikings",
+    "explanation": "Des Vikings ont établi une présence à L’Anse aux Meadows vers l’an 1000.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q046",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Qui fut le premier premier ministre du Canada?",
+    "choices": [
+      "Sir Wilfrid Laurier",
+      "George-Étienne Cartier",
+      "Alexander Mackenzie",
+      "Sir John A. Macdonald"
+    ],
+    "answer": "Sir John A. Macdonald",
+    "explanation": "Sir John A. Macdonald a dirigé le premier gouvernement du Dominion du Canada.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q047",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Qui était Sir John A. Macdonald dans l'histoire du Canada ?",
+    "choices": [
+      "Le premier explorateur français à remonter le fleuve Saint-Laurent",
+      "Le chef métis qui a dirigé la résistance de la rivière Rouge",
+      "Le premier Premier ministre du Canada après la Confédération de 1867",
+      "Le gouverneur général de la Nouvelle-France sous Louis XIV"
+    ],
+    "answer": "Le premier Premier ministre du Canada après la Confédération de 1867",
+    "explanation": "Réponse : Le premier Premier ministre du Canada après la Confédération de 1867. Il s'agit d'un Père de la Confédération dont le visage figurait sur les billets de dix dollars canadiens historiques.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q048",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Quand Terre-Neuve-et-Labrador a-t-elle rejoint le Canada?",
+    "choices": [
+      "En 1999",
+      "En 1873",
+      "En 1867",
+      "En 1949"
+    ],
+    "answer": "En 1949",
+    "explanation": "Terre-Neuve-et-Labrador est devenue la dixième province en 1949.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q049",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Quand le Nunavut a-t-il été créé?",
+    "choices": [
+      "En 1999",
+      "En 1867",
+      "En 1982",
+      "En 1949"
+    ],
+    "answer": "En 1999",
+    "explanation": "Le Nunavut est devenu un territoire distinct le 1er avril 1999.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q050",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Quand les femmes ont-elles obtenu le droit de vote fédéral de façon générale?",
+    "choices": [
+      "En 1949",
+      "En 1867",
+      "En 1982",
+      "En 1918"
+    ],
+    "answer": "En 1918",
+    "explanation": "La plupart des citoyennes canadiennes de 21 ans et plus ont obtenu le vote fédéral en 1918.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q051",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Que commémore le jour du Souvenir?",
+    "choices": [
+      "Les sacrifices des Canadiens ayant servi en temps de guerre",
+      "La fête de la Reine",
+      "La Confédération",
+      "La première élection"
+    ],
+    "answer": "Les sacrifices des Canadiens ayant servi en temps de guerre",
+    "explanation": "Le 11 novembre, on honore ceux qui ont servi et donné leur vie.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q052",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Quel document de 1982 protège les droits et libertés?",
+    "choices": [
+      "L’Acte de Québec",
+      "La Charte canadienne des droits et libertés",
+      "La Proclamation royale",
+      "Le Traité de Paris"
+    ],
+    "answer": "La Charte canadienne des droits et libertés",
+    "explanation": "La Charte fait partie de la Constitution rapatriée en 1982.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q053",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Quelle bataille de la Première Guerre mondiale est un symbole national important?",
+    "choices": [
+      "Gettysburg",
+      "Waterloo",
+      "Yorktown",
+      "La crête de Vimy"
+    ],
+    "answer": "La crête de Vimy",
+    "explanation": "La victoire canadienne à Vimy en 1917 est souvent associée à l’affirmation nationale.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q054",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Comment appelle-t-on la proposition de loi présentée au Parlement avant qu'elle ne soit votée et adoptée définitivement ?",
+    "choices": [
+      "Un décret",
+      "Un projet de loi",
+      "Un amendement",
+      "Une motion"
+    ],
+    "answer": "Un projet de loi",
+    "explanation": "Réponse : Un projet de loi. En anglais, on appelle cela un 'Bill'. Il doit passer par trois lectures dans chaque chambre.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q055",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Comment appelle-t-on le chef du gouvernement dans une province canadienne ?",
+    "choices": [
+      "Le Gouverneur",
+      "Le Commissaire",
+      "Le Maire suprême",
+      "Le Premier ministre (provincial)"
+    ],
+    "answer": "Le Premier ministre (provincial)",
+    "explanation": "Réponse : Le Premier ministre (provincial). Le titre est identique à celui du dirigeant national, mais il est suivi du nom de la province (ex: Premier ministre du Québec).",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q056",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Comment appelle-t-on le représentant du monarque britannique dans chaque province canadienne ?",
+    "choices": [
+      "Le Commissaire",
+      "Le Lieutenant-gouverneur",
+      "Le Protecteur du citoyen",
+      "Le Premier ministre provincial"
+    ],
+    "answer": "Le Lieutenant-gouverneur",
+    "explanation": "Réponse : Le Lieutenant-gouverneur. Il exerce les fonctions honorifiques et constitutionnelles de la Couronne à l'échelle locale provinciale.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q057",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Comment appelle-t-on le vote écrit secret qui garantit qu'aucun citoyen ne peut être forcé de révéler pour qui il a voté ?",
+    "choices": [
+      "Le scrutin secret",
+      "Le vote ouvert",
+      "La motion publique",
+      "Le plébiscite nominal"
+    ],
+    "answer": "Le scrutin secret",
+    "explanation": "Réponse : Le scrutin secret. Chaque électeur remplit son bulletin de vote seul derrière un isoloir protecteur.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q058",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Comment sont choisis les membres du Sénat canadien ?",
+    "choices": [
+      "Ils sont élus par la population",
+      "Ils sont nommés par le gouverneur général sur recommandation du Premier ministre",
+      "Ils héritent de leur titre de père en fils",
+      "Ils sont choisis par les maires des grandes villes"
+    ],
+    "answer": "Ils sont nommés par le gouverneur général sur recommandation du Premier ministre",
+    "explanation": "Réponse : Ils sont nommés par le gouverneur général sur recommandation du Premier ministre. Il s'agit de la chambre haute non élue du Parlement, conçue pour offrir un 'second examen objectif' des lois.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q059",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "De combien de députés la Chambre des communes à Ottawa est-elle approximativement composée actuellement ?",
+    "choices": [
+      "105",
+      "50",
+      "Plus de 330",
+      "500"
+    ],
+    "answer": "Plus de 330",
+    "explanation": "Réponse : Plus de 330. Le nombre de sièges augmente périodiquement pour refléter la croissance de la population des circonscriptions.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q060",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Lequel des éléments suivants est considéré comme un devoir civique obligatoire lorsque vous y êtes convoqué par la loi ?",
+    "choices": [
+      "Posséder une entreprise",
+      "Faire partie d'un jury",
+      "S'enrôler dans l'armée",
+      "Voter aux élections municipales"
+    ],
+    "answer": "Faire partie d'un jury",
+    "explanation": "Réponse : Faire partie d'un jury. Il s'agit d'une participation essentielle des citoyens à l'administration de la justice pénale ou civile.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q061",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Lequel des énoncés suivants décrit correctement le mode de scrutin fédéral canadien ?",
+    "choices": [
+      "Le scrutin proportionnel plurinominal",
+      "Le scrutin majoritaire uninominal à un tour",
+      "Le vote préférentiel obligatoire",
+      "Le tirage au sort démocratique"
+    ],
+    "answer": "Le scrutin majoritaire uninominal à un tour",
+    "explanation": "Réponse : Le scrutin majoritaire uninominal à un tour. Le candidat qui obtient le plus grand nombre de votes dans sa circonscription est élu, même sans majorité absolue.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q062",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Qu'est-ce qu'un gouvernement minoritaire au niveau fédéral ?",
+    "choices": [
+      "Un gouvernement composé uniquement de politiciens de moins de 40 ans",
+      "Un gouvernement dont le parti au pouvoir possède moins de la moitié des sièges de la Chambre des communes",
+      "Un gouvernement qui refuse de siéger au Parlement",
+      "Un gouvernement nommé sans élections"
+    ],
+    "answer": "Un gouvernement dont le parti au pouvoir possède moins de la moitié des sièges de la Chambre des communes",
+    "explanation": "Réponse : Un gouvernement dont le parti au pouvoir possède moins de la moitié des sièges de la Chambre des communes. Pour faire adopter des lois, ce gouvernement doit négocier et obtenir le soutien de députés d'autres partis.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q063",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quel document ou pièce d'identité officielle devez-vous présenter au bureau de scrutin pour pouvoir voter ?",
+    "choices": [
+      "Une carte de membre d'un club de gym",
+      "Une preuve d'identité et de résidence acceptée par la loi",
+      "Votre certificat de naissance d'origine uniquement",
+      "Un billet de banque canadien"
+    ],
+    "answer": "Une preuve d'identité et de résidence acceptée par la loi",
+    "explanation": "Réponse : Une preuve d'identité et de résidence acceptée par la loi. Le permis de conduire ou la carte d'assurance maladie combinée à une facture officielle font l'affaire.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q064",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quel est le nom de la salle de délibération où siègent les députés fédéraux élus à Ottawa ?",
+    "choices": [
+      "La Chambre rouge",
+      "La Chambre des communes",
+      "Le Conseil privé",
+      "Le Tribunal populaire"
+    ],
+    "answer": "La Chambre des communes",
+    "explanation": "Réponse : La Chambre des communes. Les tapis et les décors y sont traditionnellement de couleur verte, contrairement au Sénat.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q065",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quel est le rôle du Directeur général des élections au Canada ?",
+    "choices": [
+      "Choisir les candidats de chaque parti politique",
+      "Veiller à la conduite impartiale, honnête et transparente des élections fédérales",
+      "Compter les votes uniquement dans la capitale",
+      "Rédiger les règles de financement des mairies"
+    ],
+    "answer": "Veiller à la conduite impartiale, honnête et transparente des élections fédérales",
+    "explanation": "Réponse : Veiller à la conduite impartiale, honnête et transparente des élections fédérales. Il dirige l'organisme indépendant Élections Canada pour assurer un processus démocratique juste.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q066",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quel est le rôle du pouvoir judiciaire au Canada ?",
+    "choices": [
+      "Proposer et rédiger de nouvelles lois",
+      "Faire respecter et interpréter les lois à travers les tribunaux",
+      "Voter le budget annuel de l'État",
+      "Nommer le Premier ministre"
+    ],
+    "answer": "Faire respecter et interpréter les lois à travers les tribunaux",
+    "explanation": "Réponse : Faire respecter et interpréter les lois à travers les tribunaux. Ce pouvoir est exercé par des juges indépendants du pouvoir politique pour garantir l'équité.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q067",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quel est le rôle du représentant du Roi (ou de la Reine) au niveau fédéral au Canada ?",
+    "choices": [
+      "Le Gouverneur général",
+      "Le Premier ministre",
+      "Le Président de la Chambre des communes",
+      "Le Lieutenant-gouverneur"
+    ],
+    "answer": "Le Gouverneur général",
+    "explanation": "Réponse : Le Gouverneur général. Cette personne est nommée par le monarque sur recommandation du Premier ministre pour exercer les fonctions exécutives fédérales.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q068",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quel groupe politique forme le gouvernement après une élection générale ?",
+    "choices": [
+      "Le parti qui a obtenu le moins de votes",
+      "Le parti politique qui compte le plus grand nombre de députés élus à la Chambre des communes",
+      "Les sénateurs retraités",
+      "Une coalition de tous les maires du pays"
+    ],
+    "answer": "Le parti politique qui compte le plus grand nombre de députés élus à la Chambre des communes",
+    "explanation": "Réponse : Le parti politique qui compte le plus grand nombre de députés élus à la Chambre des communes. Le chef de ce parti est alors invité par le gouverneur général à devenir Premier ministre.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q069",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quel ordre de gouvernement est responsable notamment de l’éducation?",
+    "choices": [
+      "Les municipalités seulement",
+      "Le Sénat",
+      "Le gouvernement fédéral seulement",
+      "Les provinces et territoires"
+    ],
+    "answer": "Les provinces et territoires",
+    "explanation": "L’éducation et la santé relèvent principalement des provinces et territoires.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q070",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quel ordre de gouvernement gère notamment la défense nationale?",
+    "choices": [
+      "Le gouvernement fédéral",
+      "Les municipalités",
+      "Les commissions scolaires",
+      "Les gouvernements municipaux et territoriaux uniquement"
+    ],
+    "answer": "Le gouvernement fédéral",
+    "explanation": "La défense, la politique étrangère et la monnaie relèvent notamment du fédéral.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q071",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quel palier de gouvernement s'occupe de la collecte des ordures, des permis de construire locaux et du déneigement des rues ?",
+    "choices": [
+      "Fédéral",
+      "Provincial",
+      "Municipal (local)",
+      "Territorial"
+    ],
+    "answer": "Municipal (local)",
+    "explanation": "Réponse : Municipal (local). C'est l'administration de proximité gérée par les mairies ou les conseils de ville.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q072",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quel type de monarchie caractérise le gouvernement canadien ?",
+    "choices": [
+      "Monarchie absolue",
+      "Monarchie constitutionnelle",
+      "République fédérale",
+      "Oligarchie royale"
+    ],
+    "answer": "Monarchie constitutionnelle",
+    "explanation": "Réponse : Monarchie constitutionnelle. Le souverain est le chef de l'État, mais ses pouvoirs sont limités par la Constitution et exercés par des élus.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q073",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quelle couleur politique est traditionnellement associée au Parti libéral du Canada lors des campagnes électorales ?",
+    "choices": [
+      "Le bleu",
+      "Le rouge",
+      "Le vert",
+      "L'orange"
+    ],
+    "answer": "Le rouge",
+    "explanation": "Réponse : Le rouge. Le Parti conservateur utilise le bleu, le NPD utilise l'orange et ce parti utilise le rouge.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q074",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quelle est la principale fonction de l'Opposition officielle au Parlement ?",
+    "choices": [
+      "Bloquer systématiquement toutes les lois sans exception",
+      "Demander des comptes au gouvernement et critiquer ses politiques de manière constructive",
+      "Remplacer les juges de la Cour suprême",
+      "Gérer le budget de la ville d'Ottawa"
+    ],
+    "answer": "Demander des comptes au gouvernement et critiquer ses politiques de manière constructive",
+    "explanation": "Réponse : Demander des comptes au gouvernement et critiquer ses politiques de manière constructive. C'est le deuxième parti politique ayant obtenu le plus grand nombre de sièges à la Chambre des communes.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q075",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quelle institution canadienne s'occupe de la gestion de la politique monétaire et de l'émission des billets de banque ?",
+    "choices": [
+      "La Banque royale du Canada (RBC)",
+      "La Banque du Canada",
+      "La Cour suprême du budget",
+      "Le ministère du Commerce extérieur"
+    ],
+    "answer": "La Banque du Canada",
+    "explanation": "Réponse : La Banque du Canada. C'est la banque centrale du pays, une institution de la Couronne indépendante des banques commerciales.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q076",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quelles sont les trois parties du Parlement?",
+    "choices": [
+      "Les provinces, les villes et le fédéral",
+      "Le souverain, le Sénat et la Chambre des communes",
+      "La Chambre, les maires et les juges",
+      "Le Cabinet, les tribunaux et la police"
+    ],
+    "answer": "Le souverain, le Sénat et la Chambre des communes",
+    "explanation": "Une loi fédérale doit franchir les étapes parlementaires et recevoir la sanction royale.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q077",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quels trois termes décrivent le système politique canadien?",
+    "choices": [
+      "République, État unitaire et démocratie directe",
+      "Monarchie absolue, confédération et empire",
+      "Monarchie constitutionnelle, démocratie parlementaire et État fédéral",
+      "République présidentielle et État fédéral"
+    ],
+    "answer": "Monarchie constitutionnelle, démocratie parlementaire et État fédéral",
+    "explanation": "Le Canada combine la Couronne, un Parlement démocratique et un partage fédéral des pouvoirs.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q078",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Qui a le droit de choisir le moment de déclencher des élections fédérales, dans la limite d'un mandat de 4 ans ?",
+    "choices": [
+      "Le Président de la Chambre",
+      "Le Premier ministre (en conseillant le Gouverneur général)",
+      "Le chef de l'opposition",
+      "Le Directeur général des élections"
+    ],
+    "answer": "Le Premier ministre (en conseillant le Gouverneur général)",
+    "explanation": "Réponse : Le Premier ministre (en conseillant le Gouverneur général). Le dirigeant du parti au pouvoir demande la dissolution du Parlement pour lancer la campagne électorale.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q079",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Qui assure les fonctions de chef de l'État canadien en l'absence physique du monarque ?",
+    "choices": [
+      "Le Premier ministre",
+      "Le Gouverneur général",
+      "Le Juge en chef du Canada",
+      "Le Lieutenant-gouverneur de l'Ontario"
+    ],
+    "answer": "Le Gouverneur général",
+    "explanation": "Réponse : Le Gouverneur général. Il ou elle vit à Rideau Hall à Ottawa et exerce tous les pouvoirs constitutionnels honorifiques de la Couronne.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q080",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Qui choisit les membres du Cabinet ministériel au gouvernement fédéral ?",
+    "choices": [
+      "Le Roi",
+      "Le Gouverneur général",
+      "Le Premier ministre",
+      "La population par vote direct"
+    ],
+    "answer": "Le Premier ministre",
+    "explanation": "Réponse : Le Premier ministre. Le chef du gouvernement sélectionne ses ministres parmi les députés élus de son propre parti.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q081",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Qui est le chef du gouvernement fédéral?",
+    "choices": [
+      "Le gouverneur général",
+      "Le souverain",
+      "Le premier ministre",
+      "Le président du Sénat"
+    ],
+    "answer": "Le premier ministre",
+    "explanation": "Le premier ministre dirige le gouvernement et choisit les membres du Cabinet.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q082",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Qui est le chef d’État du Canada?",
+    "choices": [
+      "Le souverain",
+      "Le premier ministre",
+      "Le gouverneur général",
+      "Le juge en chef"
+    ],
+    "answer": "Le souverain",
+    "explanation": "Le souverain est le chef d’État; le gouverneur général le représente au niveau fédéral.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q083",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Qui nomme formellement les juges de la Cour suprême du Canada ?",
+    "choices": [
+      "Le Premier ministre directement",
+      "Le Gouverneur général au nom du Roi, sur avis du Cabinet",
+      "Le Sénat par un vote à la majorité",
+      "Le Conseil des maires"
+    ],
+    "answer": "Le Gouverneur général au nom du Roi, sur avis du Cabinet",
+    "explanation": "Réponse : Le Gouverneur général au nom du Roi, sur avis du Cabinet. C'est une fonction exécutive officielle de la Couronne, guidée par les recommandations politiques.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q084",
+    "module_id": "elections",
+    "module": "Élections fédérales",
+    "module_order": 6,
+    "question": "Le vote au Canada est-il secret?",
+    "choices": [
+      "Seulement pour les nouveaux citoyens",
+      "Non, il est public",
+      "Seulement aux élections provinciales",
+      "Oui, personne ne peut exiger de savoir pour qui vous avez voté"
+    ],
+    "answer": "Oui, personne ne peut exiger de savoir pour qui vous avez voté",
+    "explanation": "Le secret du vote protège la liberté de choix de chaque électeur.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q085",
+    "module_id": "elections",
+    "module": "Élections fédérales",
+    "module_order": 6,
+    "question": "Que choisit-on directement lors d’une élection fédérale?",
+    "choices": [
+      "Le premier ministre directement",
+      "Le gouverneur général",
+      "Les sénateurs",
+      "Un député pour sa circonscription"
+    ],
+    "answer": "Un député pour sa circonscription",
+    "explanation": "Les électeurs choisissent leur député; le chef qui peut former le gouvernement devient normalement premier ministre.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q086",
+    "module_id": "elections",
+    "module": "Élections fédérales",
+    "module_order": 6,
+    "question": "Quel organisme administre les élections fédérales?",
+    "choices": [
+      "Élections Canada",
+      "La GRC",
+      "Statistique Canada",
+      "Le Sénat"
+    ],
+    "answer": "Élections Canada",
+    "explanation": "Élections Canada est un organisme indépendant et non partisan.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q087",
+    "module_id": "elections",
+    "module": "Élections fédérales",
+    "module_order": 6,
+    "question": "Quel âge minimal faut-il avoir pour voter à une élection fédérale?",
+    "choices": [
+      "16 ans",
+      "21 ans",
+      "19 ans",
+      "18 ans"
+    ],
+    "answer": "18 ans",
+    "explanation": "Il faut être citoyen canadien et avoir au moins 18 ans le jour du scrutin.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q088",
+    "module_id": "elections",
+    "module": "Élections fédérales",
+    "module_order": 6,
+    "question": "Qu’est-ce qu’un gouvernement minoritaire?",
+    "choices": [
+      "Le parti au pouvoir détient moins de la moitié des sièges",
+      "Aucun député n’est élu",
+      "Le parti au pouvoir a tous les sièges",
+      "Le Sénat gouverne"
+    ],
+    "answer": "Le parti au pouvoir détient moins de la moitié des sièges",
+    "explanation": "Un gouvernement minoritaire doit obtenir l’appui d’autres députés pour faire adopter certaines mesures.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q089",
+    "module_id": "elections",
+    "module": "Élections fédérales",
+    "module_order": 6,
+    "question": "Qu’est-ce qu’une circonscription électorale?",
+    "choices": [
+      "Un tribunal électoral",
+      "Un parti politique",
+      "Une zone géographique représentée par un député",
+      "Une réunion du Cabinet"
+    ],
+    "answer": "Une zone géographique représentée par un député",
+    "explanation": "Chaque circonscription élit un député à la Chambre des communes.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q090",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Peut-on demander l’aide de la police sans crainte au Canada?",
+    "choices": [
+      "Non, jamais directement",
+      "Seulement si l’on est propriétaire",
+      "Seulement avec un avocat",
+      "Oui, la police est là pour aider et protéger"
+    ],
+    "answer": "Oui, la police est là pour aider et protéger",
+    "explanation": "Toute personne peut demander l’aide de la police; les services d’urgence sont accessibles par le 911.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q091",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Que fait la police?",
+    "choices": [
+      "Elle dirige les élections",
+      "Elle prononce toutes les peines",
+      "Elle maintient l’ordre et fait respecter la loi",
+      "Elle adopte les lois"
+    ],
+    "answer": "Elle maintient l’ordre et fait respecter la loi",
+    "explanation": "La police protège le public et enquête sur les infractions, sous l’autorité de la loi.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q092",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Quel est le plus haut tribunal du pays?",
+    "choices": [
+      "Le Sénat",
+      "La Cour suprême du Canada",
+      "La Cour fédérale",
+      "La Couronne"
+    ],
+    "answer": "La Cour suprême du Canada",
+    "explanation": "La Cour suprême est la juridiction d’appel finale du Canada.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q093",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Quel est le rôle principal des tribunaux?",
+    "choices": [
+      "Régler les différends et appliquer la loi",
+      "Élire le gouvernement",
+      "Créer les partis politiques",
+      "Percevoir les taxes municipales"
+    ],
+    "answer": "Régler les différends et appliquer la loi",
+    "explanation": "Les tribunaux interprètent la loi et rendent des décisions impartiales.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q094",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Quel principe s’applique à une personne accusée d’un crime?",
+    "choices": [
+      "La police décide seule de sa culpabilité",
+      "Elle est présumée innocente jusqu’à preuve du contraire",
+      "Elle doit prouver son innocence",
+      "Elle perd automatiquement ses droits"
+    ],
+    "answer": "Elle est présumée innocente jusqu’à preuve du contraire",
+    "explanation": "La présomption d’innocence est un principe fondamental de la justice canadienne.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q095",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Qu’est-ce que l’habeas corpus protège?",
+    "choices": [
+      "Le droit de ne jamais payer d’impôt",
+      "Le droit automatique à un emploi",
+      "Le droit de contester une détention illégale",
+      "Le droit de voter deux fois"
+    ],
+    "answer": "Le droit de contester une détention illégale",
+    "explanation": "Cette tradition juridique protège contre l’emprisonnement arbitraire.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q096",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Que représente la Couronne au Canada?",
+    "choices": [
+      "Un parti politique",
+      "L’État, son autorité et la continuité du gouvernement",
+      "Une entreprise privée",
+      "Une province particulière"
+    ],
+    "answer": "L’État, son autorité et la continuité du gouvernement",
+    "explanation": "La Couronne est un symbole de l’État et du gouvernement constitutionnel.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q097",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Que représente la tour centrale du Parlement à Ottawa, appelée 'Tour de la Paix' ?",
+    "choices": [
+      "L'indépendance économique face aux États-Unis",
+      "Un mémorial dédié aux Canadiens morts au service de la patrie",
+      "La résidence officielle du gouverneur général",
+      "Le lieu de stockage de l'or canadien"
+    ],
+    "answer": "Un mémorial dédié aux Canadiens morts au service de la patrie",
+    "explanation": "Réponse : Un mémorial dédié aux Canadiens morts au service de la patrie. Elle abrite la Chapelle du Souvenir et les Livres du Souvenir où sont inscrits les noms des soldats décédés.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q098",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quel animal est un symbole officiel ancien du Canada?",
+    "choices": [
+      "Le caribou uniquement",
+      "Le lion",
+      "Le bison uniquement",
+      "Le castor"
+    ],
+    "answer": "Le castor",
+    "explanation": "Le castor est associé à l’histoire du commerce des fourrures et au développement du pays.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q099",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quel arbre national du Canada est célébré pour sa sève sucrée et figure au centre du drapeau national ?",
+    "choices": [
+      "Le pin blanc",
+      "Le chêne rouge",
+      "L'érable",
+      "Le bouleau jaune"
+    ],
+    "answer": "L'érable",
+    "explanation": "Réponse : L'érable. La feuille de cet arbre est le symbole visuel le plus universellement reconnu du Canada.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q100",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quel corps de police emblématique en uniforme rouge à large bord est un symbole national de la loi et de l'ordre au Canada ?",
+    "choices": [
+      "La Gendarmerie royale du Canada (GRC)",
+      "La Sûreté du Québec",
+      "La Police provinciale de l'Ontario",
+      "Les Forces armées canadiennes"
+    ],
+    "answer": "La Gendarmerie royale du Canada (GRC)",
+    "explanation": "Réponse : La Gendarmerie royale du Canada (GRC). On les appelle souvent familièrement les 'Mounties' ou la police montée.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q101",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quel est l’hymne national du Canada?",
+    "choices": [
+      "God Save the King",
+      "Ô Canada",
+      "Canada the Brave",
+      "The Maple Leaf Forever"
+    ],
+    "answer": "Ô Canada",
+    "explanation": "Ô Canada a été proclamé hymne national en 1980.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q102",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quel sport est officiellement le sport national d’hiver?",
+    "choices": [
+      "Le soccer",
+      "Le curling",
+      "Le baseball",
+      "Le hockey sur glace"
+    ],
+    "answer": "Le hockey sur glace",
+    "explanation": "Le hockey est le sport national d’hiver; la crosse est le sport national d’été.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q103",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quel symbole figure au centre du drapeau canadien?",
+    "choices": [
+      "La feuille d’érable",
+      "La fleur de lys",
+      "Le castor",
+      "L’ours polaire"
+    ],
+    "answer": "La feuille d’érable",
+    "explanation": "Le drapeau rouge et blanc à la feuille d’érable a été adopté en 1965.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q104",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quel symbole officiel du Québec comporte trois branches dorées représentant historiquement la royauté française ?",
+    "choices": [
+      "Le trille blanc",
+      "La fleur de lys",
+      "Le castor doré",
+      "La feuille d'érable royale"
+    ],
+    "answer": "La fleur de lys",
+    "explanation": "Réponse : La fleur de lys. Elle figure en quatre exemplaires sur le drapeau actuel de la province (le Fleurdelisé).",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q105",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quelle devise latine officielle figure sur les armoiries du Canada, traduisant l'immensité géographique du pays ?",
+    "choices": [
+      "E pluribus unum",
+      "A mari usque ad mare",
+      "Desiderantes meliorem patriam",
+      "Je me souviens"
+    ],
+    "answer": "A mari usque ad mare",
+    "explanation": "Réponse : A mari usque ad mare. Cette phrase biblique signifie 'D'un océan à l'autre' (de la mer à la mer).",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q106",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quelle est la plus haute distinction honorifique militaire qu'un citoyen canadien puisse recevoir pour sa bravoure ?",
+    "choices": [
+      "La Croix de Victoria",
+      "L'Ordre du Canada",
+      "La Médaille de la vaillance",
+      "La Croix d'argent"
+    ],
+    "answer": "La Croix de Victoria",
+    "explanation": "Réponse : La Croix de Victoria. Cette prestigieuse décoration historique est réservée aux actes de bravoure exceptionnels face à l'ennemi.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q107",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quelle fleur emblématique représente la province de l'Ontario ?",
+    "choices": [
+      "Le lys blanc",
+      "Le trille blanc",
+      "La rose sauvage",
+      "Le sabot de la Vierge"
+    ],
+    "answer": "Le trille blanc",
+    "explanation": "Réponse : Le trille blanc. Cette fleur à trois pétales pousse au printemps dans les forêts de l'Est et du Centre.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q108",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quelles sont les couleurs nationales du Canada?",
+    "choices": [
+      "Le bleu et le blanc",
+      "Le rouge et le blanc",
+      "Le rouge et le bleu",
+      "Le vert et l’or"
+    ],
+    "answer": "Le rouge et le blanc",
+    "explanation": "Le rouge et le blanc sont les couleurs nationales depuis 1921.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q109",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Sur quel drapeau provincial ou territorial retrouve-t-on traditionnellement une feuille d'érable stylisée et le blason royal de l'Écosse ?",
+    "choices": [
+      "Le Manitoba",
+      "La Colombie-Britannique",
+      "L'Île-du-Prince-Édouard",
+      "La Nouvelle-Écosse"
+    ],
+    "answer": "La Nouvelle-Écosse",
+    "explanation": "Réponse : La Nouvelle-Écosse. Le nom de cette province signifie 'Nouvelle-Écosse' en latin, ce qui explique son lien direct avec l'héraldique écossaise.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q110",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Sur quelle pièce de monnaie canadienne courante retrouve-t-on l'image d'un plongeon huard (un oiseau aquatique) ?",
+    "choices": [
+      "La pièce de 25 cents",
+      "La pièce de 1 dollar",
+      "La pièce de 2 dollars",
+      "La pièce de 5 cents"
+    ],
+    "answer": "La pièce de 1 dollar",
+    "explanation": "Réponse : La pièce de 1 dollar. C'est en raison de cet oiseau que la monnaie d'un dollar est surnommée le 'Loonie' en anglais.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q111",
+    "module_id": "economie",
+    "module": "Économie du Canada",
+    "module_order": 9,
+    "question": "Dans quel secteur travaille la majorité des Canadiens?",
+    "choices": [
+      "L’agriculture",
+      "La pêche",
+      "Le secteur des services",
+      "Les mines"
+    ],
+    "answer": "Le secteur des services",
+    "explanation": "Les services comprennent notamment les transports, l’éducation, la santé, la finance et le commerce.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q112",
+    "module_id": "economie",
+    "module": "Économie du Canada",
+    "module_order": 9,
+    "question": "Pourquoi le commerce international est-il important pour le Canada?",
+    "choices": [
+      "Le Canada ne produit aucun bien",
+      "Il remplace toutes les taxes",
+      "Le Canada échange une grande quantité de biens, services et ressources avec le monde",
+      "Les provinces ne commercent pas entre elles"
+    ],
+    "answer": "Le Canada échange une grande quantité de biens, services et ressources avec le monde",
+    "explanation": "Le commerce soutient l’emploi et relie l’économie canadienne aux marchés mondiaux.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q113",
+    "module_id": "economie",
+    "module": "Économie du Canada",
+    "module_order": 9,
+    "question": "Quel pays est le principal partenaire commercial du Canada?",
+    "choices": [
+      "Les États-Unis",
+      "La France",
+      "Le Japon",
+      "Le Brésil"
+    ],
+    "answer": "Les États-Unis",
+    "explanation": "La proximité et les accords commerciaux soutiennent d’importants échanges avec les États-Unis.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q114",
+    "module_id": "economie",
+    "module": "Économie du Canada",
+    "module_order": 9,
+    "question": "Quelle ressource a joué un rôle majeur dans les débuts économiques du Canada?",
+    "choices": [
+      "La fourrure",
+      "Le coton",
+      "Le pétrole seulement",
+      "Le café"
+    ],
+    "answer": "La fourrure",
+    "explanation": "Le commerce des fourrures a façonné l’exploration et les relations historiques.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q115",
+    "module_id": "economie",
+    "module": "Économie du Canada",
+    "module_order": 9,
+    "question": "Quelle région est particulièrement connue pour le pétrole et le gaz?",
+    "choices": [
+      "L’Île-du-Prince-Édouard uniquement",
+      "Les Prairies, notamment l’Alberta",
+      "Le Nunavut uniquement",
+      "La région de la capitale nationale"
+    ],
+    "answer": "Les Prairies, notamment l’Alberta",
+    "explanation": "L’Alberta est un important producteur d’énergie; les Prairies sont aussi agricoles.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q116",
+    "module_id": "economie",
+    "module": "Économie du Canada",
+    "module_order": 9,
+    "question": "Quels sont les trois grands secteurs de l’économie canadienne?",
+    "choices": [
+      "Tourisme, armée et politique",
+      "Banques, élections et culture",
+      "Pêche, police et justice",
+      "Services, fabrication et ressources naturelles"
+    ],
+    "answer": "Services, fabrication et ressources naturelles",
+    "explanation": "L’économie diversifiée repose largement sur les services, la fabrication et les ressources.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q117",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Combien le Canada compte-t-il de provinces et de territoires?",
+    "choices": [
+      "10 provinces et 2 territoires",
+      "12 provinces et 1 territoire",
+      "13 provinces",
+      "10 provinces et 3 territoires"
+    ],
+    "answer": "10 provinces et 3 territoires",
+    "explanation": "Le Canada est composé de dix provinces et de trois territoires.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q118",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Dans quelle province canadienne francophone à plus de 80 % le fleuve Saint-Laurent coule-t-il sur la majeure partie de sa longueur ?",
+    "choices": [
+      "Le Nouveau-Brunswick",
+      "Le Québec",
+      "L'Ontario",
+      "Le Manitoba"
+    ],
+    "answer": "Le Québec",
+    "explanation": "Réponse : Le Québec. C'est la plus grande province en superficie terrestre et le cœur historique de la francophonie nord-américaine.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q119",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Dans quelle province canadienne retrouve-t-on les gisements de sables bitumineux qui représentent une part majeure de l'économie énergétique du pays ?",
+    "choices": [
+      "L'Alberta",
+      "La Saskatchewan",
+      "Le Manitoba",
+      "L'Ontario"
+    ],
+    "answer": "L'Alberta",
+    "explanation": "Réponse : L'Alberta. C'est la province de l'Ouest canadien bordée par les montagnes Rocheuses et réputée pour ses industries pétrolières.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q120",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Dans quelle région canadienne retrouve-t-on le plus fort pourcentage de la population vivant en milieu urbain dense ?",
+    "choices": [
+      "Les territoires du Nord",
+      "Les provinces de l'Atlantique",
+      "La région des Grands Lacs et du Saint-Laurent (Centre du Canada)",
+      "Les Prairies"
+    ],
+    "answer": "La région des Grands Lacs et du Saint-Laurent (Centre du Canada)",
+    "explanation": "Réponse : La région des Grands Lacs et du Saint-Laurent (Centre du Canada). Cette zone englobe le corridor Québec-Windsor, incluant Montréal, Ottawa et Toronto.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q121",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Laquelle de ces provinces appartient à la région des Prairies, célèbre pour ses vastes terres agricoles plates ?",
+    "choices": [
+      "La Saskatchewan",
+      "La Nouvelle-Écosse",
+      "Terre-Neuve-et-Labrador",
+      "Le Québec"
+    ],
+    "answer": "La Saskatchewan",
+    "explanation": "Réponse : La Saskatchewan. Pensez à une province enclavée entre l'Alberta et le Manitoba, grande productrice de céréales.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q122",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Lequel de ces lacs ne fait pas partie des cinq Grands Lacs d'Amérique du Nord partagés par le Canada et les États-Unis ?",
+    "choices": [
+      "Le lac Supérieur",
+      "Le lac Ontario",
+      "Le Grand Lac des Esclaves",
+      "Le lac Érié"
+    ],
+    "answer": "Le Grand Lac des Esclaves",
+    "explanation": "Réponse : Le Grand Lac des Esclaves. Ce lac est situé entièrement dans les Territoires du Nord-Ouest, loin de la frontière sud.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q123",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Lequel de ces territoires est situé le plus à l'est du Canada arctique ?",
+    "choices": [
+      "Le Yukon",
+      "Le Nunavut",
+      "Les Territoires du Nord-Ouest",
+      "La Colombie-Britannique"
+    ],
+    "answer": "Le Nunavut",
+    "explanation": "Réponse : Le Nunavut. Ce territoire a été créé en 1999 et couvre une grande partie de l'archipel arctique.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q124",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quel est le plus grand territoire du Canada par sa superficie, occupant une place centrale dans le Nord canadien ?",
+    "choices": [
+      "Le Yukon",
+      "Le Nunavut",
+      "Les Territoires du Nord-Ouest",
+      "Le Labrador"
+    ],
+    "answer": "Les Territoires du Nord-Ouest",
+    "explanation": "Réponse : Les Territoires du Nord-Ouest. Sa capitale est Yellowknife, ville connue pour son industrie d'extraction de diamants.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q125",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quel est le point culminant (la plus haute montagne) du territoire canadien ?",
+    "choices": [
+      "Le mont Tremblant",
+      "Le mont Columbia",
+      "Le mont Logan",
+      "Le mont Robson"
+    ],
+    "answer": "Le mont Logan",
+    "explanation": "Réponse : Le mont Logan. Cette immense montagne est située dans le parc national de Kluane, au cœur du Yukon.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q126",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quel grand océan borde la côte Ouest du Canada, principalement le long de la Colombie-Britannique ?",
+    "choices": [
+      "L'océan Atlantique",
+      "L'océan Arctique",
+      "L'océan Indien",
+      "L'océan Pacifique"
+    ],
+    "answer": "L'océan Pacifique",
+    "explanation": "Réponse : L'océan Pacifique. La devise canadienne mentionne d'ailleurs 'D'un océan à l'autre' (de l'Atlantique au Pacifique).",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q127",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle chaîne de montagnes majestueuse domine le paysage de l'Ouest canadien, principalement en Alberta et Colombie-Britannique ?",
+    "choices": [
+      "Les Appalaches",
+      "Les montagnes Rocheuses",
+      "Les Laurentides",
+      "La chaîne côtière"
+    ],
+    "answer": "Les montagnes Rocheuses",
+    "explanation": "Réponse : Les montagnes Rocheuses. C'est un immense massif alpin qui attire des millions de touristes dans des parcs comme Banff et Jasper.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q128",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle est la capitale de la province de la Nouvelle-Écosse, connue pour son grand port militaire historique ?",
+    "choices": [
+      "Sydney",
+      "Halifax",
+      "Charlottetown",
+      "Fredericton"
+    ],
+    "answer": "Halifax",
+    "explanation": "Réponse : Halifax. Cette ville côtière possède l'un des plus grands ports naturels libres de glace au monde.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q129",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle est la capitale du Canada?",
+    "choices": [
+      "Montréal",
+      "Ottawa",
+      "Toronto",
+      "Vancouver"
+    ],
+    "answer": "Ottawa",
+    "explanation": "Ottawa, en Ontario, est la capitale nationale.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q130",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle est la capitale du Québec?",
+    "choices": [
+      "Sherbrooke",
+      "Gatineau",
+      "Québec",
+      "Montréal"
+    ],
+    "answer": "Québec",
+    "explanation": "La ville de Québec est la capitale de la province; Montréal est sa plus grande ville.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q131",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle est la capitale du territoire du Yukon ?",
+    "choices": [
+      "Yellowknife",
+      "Whitehorse",
+      "Iqaluit",
+      "Dawson City"
+    ],
+    "answer": "Whitehorse",
+    "explanation": "Réponse : Whitehorse. Le nom de cette ville évoque un cheval blanc.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q132",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle est la principale formation géologique rocheuse qui couvre près de la moitié du territoire canadien en fer à cheval ?",
+    "choices": [
+      "Les Appalaches",
+      "La Cordillère de l'Ouest",
+      "Le Bouclier canadien",
+      "Les Basses-terres du Saint-Laurent"
+    ],
+    "answer": "Le Bouclier canadien",
+    "explanation": "Réponse : Le Bouclier canadien. Cette immense étendue de roches anciennes est très riche en minéraux et entoure la baie d'Hudson.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q133",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle province de la côte Pacifique est réputée pour ses forêts pluviales tempérées, ses montagnes côtières et son ouverture sur l'Asie ?",
+    "choices": [
+      "L'Alberta",
+      "Le Yukon",
+      "La Colombie-Britannique",
+      "Le Manitoba"
+    ],
+    "answer": "La Colombie-Britannique",
+    "explanation": "Réponse : La Colombie-Britannique. Sa plus grande ville métropolitaine est Vancouver et sa capitale est Victoria.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q134",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle province des Prairies borde l'ouest de la Colombie-Britannique et abrite les villes de Calgary et Edmonton ?",
+    "choices": [
+      "Le Manitoba",
+      "La Saskatchewan",
+      "L'Alberta",
+      "Le Montana"
+    ],
+    "answer": "L'Alberta",
+    "explanation": "Réponse : L'Alberta. C'est une province riche en pétrole, en élevage de bétail et bordée par les Rocheuses.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q135",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle province est la plus petite du Canada en superficie comme en population ?",
+    "choices": [
+      "Le Nouveau-Brunswick",
+      "La Nouvelle-Écosse",
+      "L'Île-du-Prince-Édouard",
+      "Terre-Neuve-et-Labrador"
+    ],
+    "answer": "L'Île-du-Prince-Édouard",
+    "explanation": "Réponse : L'Île-du-Prince-Édouard. Cette île est située dans le golfe du Saint-Laurent et est reliée au Nouveau-Brunswick par le pont de la Confédération.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q136",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle province est la seule officiellement bilingue?",
+    "choices": [
+      "Le Nouveau-Brunswick",
+      "L’Ontario",
+      "Le Québec",
+      "Le Manitoba"
+    ],
+    "answer": "Le Nouveau-Brunswick",
+    "explanation": "Le Nouveau-Brunswick est officiellement bilingue en français et en anglais.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q137",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle province possède la plus grande population et la plus grande puissance économique du Canada ?",
+    "choices": [
+      "Le Québec",
+      "La Colombie-Britannique",
+      "L'Alberta",
+      "L'Ontario"
+    ],
+    "answer": "L'Ontario",
+    "explanation": "Réponse : L'Ontario. C'est dans cette province que se situent la plus grande ville du pays, Toronto, ainsi que la capitale fédérale.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q138",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelles provinces forment les provinces de l’Atlantique?",
+    "choices": [
+      "Yukon, Nunavut, T.N.-O. et Colombie-Britannique",
+      "Québec, Ontario, Manitoba et Saskatchewan",
+      "Alberta, Saskatchewan, Manitoba et Ontario",
+      "Terre-Neuve-et-Labrador, Île-du-Prince-Édouard, Nouvelle-Écosse et Nouveau-Brunswick"
+    ],
+    "answer": "Terre-Neuve-et-Labrador, Île-du-Prince-Édouard, Nouvelle-Écosse et Nouveau-Brunswick",
+    "explanation": "Ces quatre provinces bordent l’Atlantique et possèdent une forte tradition maritime.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  },
+  {
+    "id": "q139",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelles sont les provinces incluses dans la région des provinces de l'Atlantique ?",
+    "choices": [
+      "La Nouvelle-Écosse, le Nouveau-Brunswick, l'Île-du-Prince-Édouard et Terre-Neuve-et-Labrador",
+      "Le Québec, l'Ontario et le Manitoba",
+      "L'Alberta, la Saskatchewan et le Manitoba",
+      "La Colombie-Britannique et le Yukon"
+    ],
+    "answer": "La Nouvelle-Écosse, le Nouveau-Brunswick, l'Île-du-Prince-Édouard et Terre-Neuve-et-Labrador",
+    "explanation": "Réponse : La Nouvelle-Écosse, le Nouveau-Brunswick, l'Île-du-Prince-Édouard et Terre-Neuve-et-Labrador. Ce sont les quatre provinces situées à l'extrême est, en bordure de l'océan Atlantique.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q140",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quels sont les trois océans qui bordent les côtes géographiques du Canada ?",
+    "choices": [
+      "Atlantique, Pacifique et Indien",
+      "Atlantique, Pacifique et Arctique",
+      "Arctique, Antarctique et Pacifique",
+      "Méditerranée, Atlantique et Arctique"
+    ],
+    "answer": "Atlantique, Pacifique et Arctique",
+    "explanation": "Réponse : Atlantique, Pacifique et Arctique. Le Canada possède le plus long littoral au monde grâce à ces trois immenses façades maritimes.",
+    "source": "Banque complémentaire questions2.json"
+  },
+  {
+    "id": "q141",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quels sont les trois territoires?",
+    "choices": [
+      "Labrador, Yukon et Nunavut",
+      "Yukon, Territoires du Nord-Ouest et Nunavut",
+      "Alberta, Yukon et Nunavut",
+      "Manitoba, Saskatchewan et Yukon"
+    ],
+    "answer": "Yukon, Territoires du Nord-Ouest et Nunavut",
+    "explanation": "Les trois territoires occupent le Nord canadien.",
+    "source": "Découvrir le Canada — guide d’étude officiel d’IRCC"
+  }
+]

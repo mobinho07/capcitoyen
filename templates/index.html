@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Cap Citoyenneté 🍁</title>
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <div class="maple-bg">🍁</div>
+    <section id="auth" class="auth-shell">
+      <div class="brand">
+        <span class="leaf">🍁</span>
+        <h1>Cap Citoyenneté</h1>
+        <p>Ton parcours vers la citoyenneté canadienne</p>
+      </div>
+      <form id="authForm" class="card auth-card">
+        <div class="tabs">
+          <button type="button" class="active" data-tab="login">
+            Connexion</button
+          ><button type="button" data-tab="register">Créer un compte</button>
+        </div>
+        <label id="nameField" class="hidden"
+          >Prénom et nom<input id="name" autocomplete="name"
+        /></label>
+        <label
+          >Identifiant<input
+            id="username"
+            required
+            autocomplete="username" /></label
+        ><label
+          >Mot de passe<input
+            id="password"
+            type="password"
+            required
+            autocomplete="current-password"
+        /></label>
+        <button class="primary" id="authSubmit">Se connecter</button>
+        <p id="authError" class="error"></p>
+      </form>
+      <p>designed by Mobinho Corp(C) - 2026</p>
+    </section>
+    <main id="app" class="hidden">
+      <header>
+        <div class="logo">🍁 <b>Cap Citoyenneté</b></div>
+        <div>
+          <span id="hello"></span
+          ><button id="logout" class="ghost">Déconnexion</button>
+        </div>
+      </header>
+      <div class="container">
+        <section class="hero">
+          <div>
+            <span class="eyebrow">PRÉPARATION OFFICIELLE</span>
+            <h1>Prêt à devenir citoyen?</h1>
+            <p>Progresse module par module ou entraîne-toi librement.</p>
+            <div class="actions">
+              <button id="continueBtn" class="primary">
+                Continuer mon parcours →</button
+              ><button id="examBtn" class="light">Passer l’examen blanc</button>
+            </div>
+          </div>
+          <div class="progress-ring">
+            <b id="ringValue">0%</b><span>parcours</span>
+          </div>
+        </section>
+        <div class="stats">
+          <div class="stat">
+            <span>Modules réussis</span><b id="completed">0/10</b>
+          </div>
+          <div class="stat"><span>Seuil de réussite</span><b>75%</b></div>
+          <div class="stat"><span>Questions disponibles</span><b>300</b></div>
+        </div>
+        <section>
+          <div class="section-title">
+            <div>
+              <span class="eyebrow">TON PARCOURS</span>
+              <h2>Modules de formation</h2>
+            </div>
+            <p>
+              Un clic ouvre le module. 🔒 = étape du parcours encore
+              verrouillée.
+            </p>
+          </div>
+          <div id="modules" class="module-grid"></div>
+        </section>
+        <section id="examHistory">
+          <div class="section-title">
+            <div>
+              <span class="eyebrow">SIMULATIONS</span>
+              <h2>Derniers examens blancs</h2>
+            </div>
+          </div>
+          <div id="exams" class="history"></div>
+        </section>
+      </div>
+    </main>
+    <dialog id="quizModal">
+      <div class="modal-head">
+        <div>
+          <span id="quizType" class="eyebrow">QUIZ</span>
+          <h2 id="quizTitle"></h2>
+        </div>
+        <button id="closeModal" class="close">×</button>
+      </div>
+      <div class="quiz-progress"><div id="quizBar"></div></div>
+      <div id="quizBody">
+        <div class="q-meta">
+          <span id="qCount"></span><span id="timer"></span>
+        </div>
+        <h3 id="question"></h3>
+        <div id="choices" class="choices"></div>
+        <div id="explanation" class="explanation hidden"></div>
+        <div class="quiz-actions">
+          <button id="nextBtn" class="primary" disabled>
+            Question suivante →
+          </button>
+        </div>
+      </div>
+      <div id="resultBody" class="result hidden">
+        <div id="resultIcon" class="result-icon"></div>
+        <h2 id="resultTitle"></h2>
+        <p id="resultScore"></p>
+        <button id="resultClose" class="primary">
+          Retour au tableau de bord
+        </button>
+      </div>
+    </dialog>
+    <script src="/static/app.js"></script>
+  </body>
+</html>
