@@ -4,6 +4,8 @@ import json
 import os
 import random
 import threading
+import secrets
+import click
 from datetime import datetime, timezone
 from pathlib import Path
 from functools import wraps
@@ -18,7 +20,7 @@ USERS_FILE = DATA_DIR / "users.json"
 LOCK = threading.Lock()
 
 app = Flask(__name__)
-app.secret_key = os.environ.get("SECRET_KEY", "change-me-in-production-canada-2026")
+app.secret_key = os.environ.get("SECRET_KEY") or secrets.token_hex(32)
 app.config.update(SESSION_COOKIE_HTTPONLY=True, SESSION_COOKIE_SAMESITE="Lax")
 
 
@@ -52,7 +54,27 @@ def current_user():
     username = session.get("username")
     if not username:
         return None
-    return read_json(USERS_FILE, {}).get(username)
+    user = read_json(USERS_FILE, {}).get(username)
+    if not user or not user.get("active", True) or session.get("version", 0) != user.get("version", 0):
+        return None
+    return user
+
+
+def start_session(username, user):
+    session.clear()
+    session.update(username=username, version=user.get("version", 0), csrf=secrets.token_urlsafe(32))
+
+
+def superadmin_required(fn):
+    @wraps(fn)
+    @login_required
+    def wrapped(*args, **kwargs):
+        if current_user().get("role", "user") != "superadmin":
+            return jsonify({"error": "Accès réservé au superadmin."}), 403
+        if request.method != "GET" and not secrets.compare_digest(request.headers.get("X-CSRF-Token", ""), session.get("csrf", "missing")):
+            return jsonify({"error": "Session invalide. Rechargez la page."}), 403
+        return fn(*args, **kwargs)
+    return wrapped
 
 
 def login_required(fn):
@@ -99,9 +121,9 @@ def register():
         users = read_json(USERS_FILE, {})
         if username in users:
             return jsonify({"error": "Cet identifiant existe déjà."}), 409
-        users[username] = {"name": name, "password": generate_password_hash(password), "results": {}, "exams": [], "created_at": datetime.now(timezone.utc).isoformat()}
+        users[username] = {"name": name, "password": generate_password_hash(password), "version": secrets.token_hex(16), "results": {}, "exams": [], "created_at": datetime.now(timezone.utc).isoformat()}
         write_json(USERS_FILE, users)
-    session["username"] = username
+    start_session(username, users[username])
     return jsonify({"ok": True})
 
 
@@ -110,9 +132,9 @@ def login():
     payload = request.get_json(force=True)
     username = str(payload.get("username", "")).strip().lower()
     user = read_json(USERS_FILE, {}).get(username)
-    if not user or not check_password_hash(user["password"], str(payload.get("password", ""))):
+    if not user or not user.get("active", True) or not check_password_hash(user["password"], str(payload.get("password", ""))):
         return jsonify({"error": "Identifiant ou mot de passe incorrect."}), 401
-    session["username"] = username
+    start_session(username, user)
     return jsonify({"ok": True})
 
 
@@ -128,7 +150,8 @@ def dashboard():
     user = current_user()
     statuses = module_statuses(user)
     return jsonify({
-        "user": {"name": user["name"]},
+        "user": {"name": user["name"], "username": session["username"], "role": user.get("role", "user")},
+        "csrf": session.setdefault("csrf", secrets.token_urlsafe(32)),
         "modules": statuses,
         "completed": sum(1 for m in statuses if m["passed"]),
         "total": len(statuses),
@@ -198,6 +221,109 @@ def submit():
         write_json(USERS_FILE, users)
     session.pop("active_quiz", None)
     return jsonify(attempt)
+
+
+@app.get("/api/admin/users")
+@superadmin_required
+def admin_users():
+    output = []
+    for username, user in read_json(USERS_FILE, {}).items():
+        attempts = [a for items in user.get("results", {}).values() for a in items]
+        exams = user.get("exams", [])
+        all_attempts = attempts + exams
+        output.append({
+            "username": username, "name": user["name"], "role": user.get("role", "user"),
+            "active": user.get("active", True), "created_at": user.get("created_at"),
+            "completed": sum(m["passed"] for m in module_statuses(user)),
+            "attempts": len(attempts), "exams": len(exams),
+            "average": round(sum(a["percent"] for a in all_attempts) / len(all_attempts), 1) if all_attempts else None,
+        })
+    return jsonify(users=output, stats={"total": len(output), "active": sum(u["active"] for u in output),
+        "attempts": sum(u["attempts"] for u in output), "exams": sum(u["exams"] for u in output)})
+
+
+@app.post("/api/admin/users")
+@superadmin_required
+def admin_create():
+    payload = request.get_json(silent=True) or {}
+    if not isinstance(payload, dict):
+        return jsonify(error="Données invalides."), 400
+    username = str(payload.get("username", "")).strip().lower()
+    name = str(payload.get("name", "")).strip()
+    password = str(payload.get("password", ""))
+    if len(username) < 3 or len(name) < 2 or len(password) < 6:
+        return jsonify(error="Nom (2+), identifiant (3+) et mot de passe (6+) requis."), 400
+    with LOCK:
+        users = read_json(USERS_FILE, {})
+        if username in users:
+            return jsonify(error="Cet identifiant existe déjà."), 409
+        users[username] = dict(name=name, password=generate_password_hash(password), role="user", active=True, version=secrets.token_hex(16),
+                               results={}, exams=[], created_at=datetime.now(timezone.utc).isoformat())
+        write_json(USERS_FILE, users)
+    return jsonify(ok=True), 201
+
+
+@app.patch("/api/admin/users/<username>")
+@superadmin_required
+def admin_update(username):
+    payload = request.get_json(silent=True) or {}
+    if not isinstance(payload, dict):
+        return jsonify(error="Données invalides."), 400
+    with LOCK:
+        users = read_json(USERS_FILE, {})
+        user = users.get(username)
+        if not user:
+            return jsonify(error="Utilisateur introuvable."), 404
+        name = payload.get("name", user["name"])
+        role = payload.get("role", user.get("role", "user"))
+        active = payload.get("active", user.get("active", True))
+        password = payload.get("password")
+        if not isinstance(name, str) or len(name.strip()) < 2 or role not in ("user", "superadmin") or not isinstance(active, bool):
+            return jsonify(error="Nom, rôle ou statut invalide."), 400
+        if password is not None and (not isinstance(password, str) or len(password) < 6):
+            return jsonify(error="Le mot de passe doit contenir au moins 6 caractères."), 400
+        if username == session["username"] and (not active or role != "superadmin"):
+            return jsonify(error="Vous ne pouvez pas désactiver votre compte ou retirer votre propre rôle."), 400
+        user.update(name=name.strip(), role=role, active=active)
+        if password is not None:
+            user["password"] = generate_password_hash(password)
+        if password is not None or not active or role != "superadmin":
+            user["version"] = secrets.token_hex(16)
+        write_json(USERS_FILE, users)
+    return jsonify(ok=True)
+
+
+@app.delete("/api/admin/users/<username>")
+@superadmin_required
+def admin_delete(username):
+    with LOCK:
+        users = read_json(USERS_FILE, {})
+        if username == session["username"]:
+            return jsonify(error="Vous ne pouvez pas supprimer votre propre compte."), 400
+        if username not in users:
+            return jsonify(error="Utilisateur introuvable."), 404
+        del users[username]
+        write_json(USERS_FILE, users)
+    return jsonify(ok=True)
+
+
+@app.cli.command("create-superadmin")
+@click.argument("username")
+@click.option("--name", prompt="Nom complet")
+@click.password_option(confirmation_prompt=True)
+def create_superadmin(username, name, password):
+    """Créer le premier superadmin depuis le serveur."""
+    username = username.strip().lower()
+    if len(username) < 3 or len(name.strip()) < 2 or len(password) < 6:
+        raise click.ClickException("Nom (2+), identifiant (3+) et mot de passe (6+) requis.")
+    with LOCK:
+        users = read_json(USERS_FILE, {})
+        if username in users:
+            raise click.ClickException("Cet identifiant existe déjà. Choisissez un nouvel identifiant.")
+        users[username] = dict(name=name.strip(), password=generate_password_hash(password), role="superadmin",
+                               active=True, version=secrets.token_hex(16), results={}, exams=[], created_at=datetime.now(timezone.utc).isoformat())
+        write_json(USERS_FILE, users)
+    click.echo("Superadmin créé.")
 
 
 if __name__ == "__main__":
