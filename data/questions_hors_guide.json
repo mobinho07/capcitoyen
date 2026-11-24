@@ -1,0 +1,2434 @@
+[
+  {
+    "id": "q016",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Qui, en plus des citoyens, bénéficie du droit de s’établir et de gagner sa vie dans n’importe quelle province ?",
+    "choices": [
+      "Les visiteurs étrangers",
+      "Les travailleurs temporaires seulement",
+      "Les résidents permanents du Canada",
+      "Les étudiants internationaux seulement"
+    ],
+    "answer": "Les résidents permanents du Canada",
+    "explanation": "L’article 6 de la Charte accorde le droit de s’établir et de travailler dans toute province aux citoyens et aux résidents permanents.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 8"
+  },
+  {
+    "id": "q020",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Qui peut se prévaloir des droits à l’instruction dans la langue officielle de la minorité pour ses enfants ?",
+    "choices": [
+      "Tous les résidents temporaires",
+      "Les citoyens canadiens dont la première langue apprise est celle de la minorité officielle de leur province",
+      "Uniquement les fonctionnaires fédéraux",
+      "Uniquement les personnes nées au Canada"
+    ],
+    "answer": "Les citoyens canadiens dont la première langue apprise est celle de la minorité officielle de leur province",
+    "explanation": "Ces droits appartiennent aux citoyens canadiens, notamment ceux dont la langue maternelle est la langue officielle minoritaire de leur province de résidence.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 8"
+  },
+  {
+    "id": "q022",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Que fait l’article 35 de la Loi constitutionnelle de 1982 à l’égard des droits des peuples autochtones ?",
+    "choices": [
+      "Il reconnaît et confirme les droits existants, ancestraux et issus de traités",
+      "Il abolit les droits des peuples autochtones",
+      "Il transfère ces droits aux provinces",
+      "Il crée un nouveau ministère des Affaires autochtones"
+    ],
+    "answer": "Il reconnaît et confirme les droits existants, ancestraux et issus de traités",
+    "explanation": "L’article 35 reconnaît et confirme les droits existants — ancestraux et issus de traités — des peuples autochtones du Canada.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 8 et 10"
+  },
+  {
+    "id": "q026",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Selon l’article 15 de la Charte, la discrimination est notamment interdite en fonction de quels motifs ?",
+    "choices": [
+      "La profession et le revenu seulement",
+      "La taille et le poids seulement",
+      "Les opinions politiques seulement",
+      "La race, l’origine ethnique, la religion, le sexe, l’âge et les déficiences mentales ou physiques"
+    ],
+    "answer": "La race, l’origine ethnique, la religion, le sexe, l’âge et les déficiences mentales ou physiques",
+    "explanation": "L’article 15 garantit l’égalité devant la loi sans discrimination fondée notamment sur la race, l’origine, la religion, le sexe, l’âge ou les déficiences.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 8 et 9"
+  },
+  {
+    "id": "q027",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "En quelle année le Canada a-t-il adopté le multiculturalisme comme politique officielle ?",
+    "choices": [
+      "En 1967",
+      "En 1982",
+      "En 1971",
+      "En 1988"
+    ],
+    "answer": "En 1971",
+    "explanation": "Le Canada a adopté une politique officielle de multiculturalisme en 1971, reconnaissant la diversité culturelle de sa population.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 25"
+  },
+  {
+    "id": "q028",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Comment la Charte doit-elle être interprétée, selon son article 27 ?",
+    "choices": [
+      "En faveur des provinces les plus populeuses",
+      "D’une manière compatible avec la préservation et la valorisation du patrimoine multiculturel des Canadiens",
+      "En ignorant les différences culturelles",
+      "Uniquement selon les coutumes britanniques"
+    ],
+    "answer": "D’une manière compatible avec la préservation et la valorisation du patrimoine multiculturel des Canadiens",
+    "explanation": "L’article 27 prévoit que la Charte s’interprète d’une manière compatible avec le patrimoine multiculturel des Canadiens.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 8"
+  },
+  {
+    "id": "q034",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Où et devant qui le serment de citoyenneté est-il prêté ?",
+    "choices": [
+      "À l’ambassade du pays d’origine",
+      "Au bureau de scrutin, le jour des élections",
+      "Devant la Cour suprême du Canada",
+      "Lors d’une cérémonie de citoyenneté, devant un juge de la citoyenneté"
+    ],
+    "answer": "Lors d’une cérémonie de citoyenneté, devant un juge de la citoyenneté",
+    "explanation": "Les nouveaux citoyens prêtent serment lors d’une cérémonie de citoyenneté présidée par un juge de la citoyenneté.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 7 (Le guide confirme la cérémonie. IRCC précise sur sa page actuelle que la présidence peut être assurée par un juge ou un autre président de cérémonie.)"
+  },
+  {
+    "id": "q041",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Quelle est la durée maximale du mandat de la Chambre des communes selon la Charte ?",
+    "choices": [
+      "Deux ans",
+      "Trois ans",
+      "Sept ans",
+      "Cinq ans : une élection doit avoir lieu au moins tous les cinq ans"
+    ],
+    "answer": "Cinq ans : une élection doit avoir lieu au moins tous les cinq ans",
+    "explanation": "Les droits démocratiques de la Charte prévoient qu’aucune Chambre des communes ni assemblée législative ne peut siéger plus de cinq ans sans élection.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 30"
+  },
+  {
+    "id": "q042",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Contre les actions de qui la Charte protège-t-elle principalement les personnes au Canada ?",
+    "choices": [
+      "Contre les autres pays",
+      "Contre les entreprises privées étrangères",
+      "Contre les membres de leur famille",
+      "Contre les gouvernements et leurs organismes"
+    ],
+    "answer": "Contre les gouvernements et leurs organismes",
+    "explanation": "La Charte encadre l’action des gouvernements : elle garantit les droits et libertés des personnes face à l’État.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 8"
+  },
+  {
+    "id": "q043",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "À qui s’appliquent la plupart des droits garantis par la Charte ?",
+    "choices": [
+      "Aux citoyens canadiens seulement",
+      "Aux fonctionnaires seulement",
+      "À toute personne qui se trouve au Canada, pas seulement aux citoyens",
+      "Aux personnes nées au Canada seulement"
+    ],
+    "answer": "À toute personne qui se trouve au Canada, pas seulement aux citoyens",
+    "explanation": "La plupart des droits de la Charte protègent toute personne présente au Canada ; seuls certains droits, comme voter, sont réservés aux citoyens.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 8 et 30"
+  },
+  {
+    "id": "q048",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "L’article 35 de la Loi constitutionnelle de 1982 crée-t-il les droits des peuples autochtones ?",
+    "choices": [
+      "Oui, ces droits n’existaient pas avant 1982",
+      "Oui, mais seulement pour les Métis",
+      "Non : il reconnaît et confirme des droits qui existaient déjà",
+      "Non : il les a abolis en 1982"
+    ],
+    "answer": "Non : il reconnaît et confirme des droits qui existaient déjà",
+    "explanation": "L’article 35 parle des droits « existants » : il reconnaît et confirme les droits ancestraux et issus de traités, sans les créer.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 10"
+  },
+  {
+    "id": "q050",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Quelle est la langue officielle du Québec ?",
+    "choices": [
+      "L'anglais",
+      "Le français",
+      "L'anglais et le français à égalité",
+      "Aucune, le Québec n'a pas de langue officielle"
+    ],
+    "answer": "Le français",
+    "explanation": "La Charte de la langue française, adoptée en 1977, fait du français la langue officielle du Québec; le Nouveau-Brunswick est la seule province officiellement bilingue.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 11 et 47"
+  },
+  {
+    "id": "q052",
+    "module_id": "droits",
+    "module": "Droits et responsabilités",
+    "module_order": 1,
+    "question": "Que fait l'article 35 de la Loi constitutionnelle de 1982 ?",
+    "choices": [
+      "Il fait partie de la Charte et garantit la liberté d'expression",
+      "Il reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones",
+      "Il crée le territoire du Nunavut",
+      "Il fixe le nombre de sénateurs par province"
+    ],
+    "answer": "Il reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones",
+    "explanation": "L'article 35 se trouve dans la partie II de la Loi constitutionnelle de 1982, et non dans la Charte; il reconnaît et confirme les droits ancestraux et issus de traités des peuples autochtones.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 8 et 10"
+  },
+  {
+    "id": "q063",
+    "module_id": "identite",
+    "module": "Qui sommes-nous?",
+    "module_order": 2,
+    "question": "Combien de langues les peuples des Premières Nations parlent-ils au Canada ?",
+    "choices": [
+      "Plus de 50 langues différentes",
+      "Une seule langue commune",
+      "Uniquement le français et l’anglais",
+      "Aucune : leurs langues ont disparu"
+    ],
+    "answer": "Plus de 50 langues différentes",
+    "explanation": "Les Premières Nations parlent plus de 50 langues différentes, ce qui témoigne de la grande diversité de leurs cultures.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 10–11"
+  },
+  {
+    "id": "q078",
+    "module_id": "identite",
+    "module": "Qui sommes-nous?",
+    "module_order": 2,
+    "question": "Quelles religions connaissent une croissance au Canada avec l’immigration récente ?",
+    "choices": [
+      "Le shintoïsme seulement",
+      "L’islam, l’hindouisme, le sikhisme et le bouddhisme",
+      "Aucune, le paysage religieux ne change pas",
+      "Le druidisme et le paganisme"
+    ],
+    "answer": "L’islam, l’hindouisme, le sikhisme et le bouddhisme",
+    "explanation": "Grâce à l’immigration, le Canada compte des communautés musulmanes, hindoues, sikhes, bouddhistes et juives de plus en plus importantes.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 13 (Le guide cite la croissance de plusieurs groupes religieux sans nommer les bouddhistes dans ce passage.)"
+  },
+  {
+    "id": "q101",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel premier ministre canadien a fait adopter la Loi sur les langues officielles en 1969, établissant la pleine égalité du français et de l'anglais ?",
+    "choices": [
+      "John Diefenbaker",
+      "Lester B. Pearson",
+      "Pierre Elliott Trudeau",
+      "Brian Mulroney"
+    ],
+    "answer": "Pierre Elliott Trudeau",
+    "explanation": "Réponse : Pierre Elliott Trudeau. Il est également l'artisan du rapatriement de la Constitution et de la Charte des droits en 1982.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 24"
+  },
+  {
+    "id": "q105",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel traité signé en 1763 a officiellement mis fin à la guerre de Sept Ans, cédant la Nouvelle-France à la Grande-Bretagne ?",
+    "choices": [
+      "Le traité de Versailles",
+      "Le traité d'Utrecht",
+      "Le traité de Paris",
+      "Le traité de Gand"
+    ],
+    "answer": "Le traité de Paris",
+    "explanation": "Réponse : Le traité de Paris. Ce traité historique a redessiné la carte de l'Amérique du Nord en faveur de l'Empire britannique.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 15"
+  },
+  {
+    "id": "q108",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quelle contribution canadienne majeure à l'échelle internationale a valu à Lester B. Pearson le prix Nobel de la paix en 1957 ?",
+    "choices": [
+      "La création des forces de maintien de la paix de l'ONU (Casques bleus) lors de la crise de Suez",
+      "La signature du traité de l'OTAN",
+      "Le développement du vaccin contre la polio",
+      "L'invention du radar moderne"
+    ],
+    "answer": "La création des forces de maintien de la paix de l'ONU (Casques bleus) lors de la crise de Suez",
+    "explanation": "Réponse : La création des forces de maintien de la paix de l'ONU (Casques bleus) lors de la crise de Suez. Il a proposé une force militaire neutre pour superviser le retrait des troupes et apaiser le conflit en Égypte.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 24 (Le guide présente le maintien de la paix de l’ONU. Il ne nomme pas Pearson, la crise de Suez ni le prix Nobel.)"
+  },
+  {
+    "id": "q111",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quelle loi adoptée par le Parlement britannique en 1931 a accordé au Canada sa pleine autonomie législative ?",
+    "choices": [
+      "L'Acte d'Union",
+      "L'Acte de l'Amérique du Nord britannique",
+      "Le Statut de Westminster",
+      "La Déclaration des droits"
+    ],
+    "answer": "Le Statut de Westminster",
+    "explanation": "Réponse : Le Statut de Westminster. C'est l'étape historique majeure qui a confirmé l'indépendance politique des dominions de l'Empire.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 24"
+  },
+  {
+    "id": "q112",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Qui a exploré le fleuve Saint-Laurent en 1534?",
+    "choices": [
+      "Samuel de Champlain",
+      "James Cook",
+      "John Cabot",
+      "Jacques Cartier"
+    ],
+    "answer": "Jacques Cartier",
+    "explanation": "Jacques Cartier a pris possession du territoire au nom du roi de France.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 14 (Le guide situe les voyages entre 1534 et 1542. Parcs Canada situe la remontée du fleuve au deuxième voyage, en 1535.)"
+  },
+  {
+    "id": "q121",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Que cherchait principalement Jacques Cartier lors de ses voyages de 1534 à 1542 ?",
+    "choices": [
+      "Un passage maritime vers l'Asie et des richesses",
+      "Un lieu pour fonder une colonie agricole permanente",
+      "De nouvelles terres pour les pêcheurs bretons",
+      "Une route terrestre vers le Pacifique"
+    ],
+    "answer": "Un passage maritime vers l'Asie et des richesses",
+    "explanation": "Le roi de France a envoyé Cartier chercher un passage vers l'Asie ainsi que de l'or et d'autres richesses ; il a plutôt exploré le golfe et le fleuve Saint-Laurent.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 14"
+  },
+  {
+    "id": "q122",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "En 1604, Samuel de Champlain a participé à la première tentative d'établissement français en Amérique du Nord. Dans quelle région se trouvait-elle ?",
+    "choices": [
+      "Dans la vallée de la rivière Rouge",
+      "Sur les bords du lac Ontario",
+      "À Terre-Neuve",
+      "En Acadie"
+    ],
+    "answer": "En Acadie",
+    "explanation": "En 1604, l'expédition de Pierre Du Gua de Monts, accompagnée de Champlain, a tenté un premier établissement en Acadie, d'abord à l'île Sainte-Croix puis à Port-Royal.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 15 (Le guide distingue l’île Sainte-Croix, l’établissement de 1604, de Port-Royal, l’établissement qui suit.)"
+  },
+  {
+    "id": "q127",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quelle ville a capitulé aux mains des Britanniques quelques jours après la bataille des plaines d'Abraham en 1759 ?",
+    "choices": [
+      "Montréal",
+      "Louisbourg",
+      "Halifax",
+      "Québec"
+    ],
+    "answer": "Québec",
+    "explanation": "Après la défaite des plaines d'Abraham, la ville de Québec s'est rendue aux Britanniques ; Montréal a capitulé l'année suivante, en 1760.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 15"
+  },
+  {
+    "id": "q136",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel traité a mis fin à la guerre de 1812 en 1814 ?",
+    "choices": [
+      "Le traité de Paris",
+      "Le traité de Versailles",
+      "Le traité d'Utrecht",
+      "Le traité de Gand"
+    ],
+    "answer": "Le traité de Gand",
+    "explanation": "Le traité de Gand, signé en décembre 1814, a mis fin à la guerre de 1812 et rétabli les frontières d'avant-guerre entre le Canada et les États-Unis.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 17"
+  },
+  {
+    "id": "q137",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Qui dirigeait les Patriotes lors de la rébellion de 1837 au Bas-Canada ?",
+    "choices": [
+      "William Lyon Mackenzie",
+      "Louis-Hippolyte LaFontaine",
+      "George-Étienne Cartier",
+      "Louis-Joseph Papineau"
+    ],
+    "answer": "Louis-Joseph Papineau",
+    "explanation": "Louis-Joseph Papineau, chef du Parti patriote, a dirigé le mouvement réformiste puis la rébellion de 1837 au Bas-Canada avant de s'exiler.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 17"
+  },
+  {
+    "id": "q138",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Qui dirigeait les réformateurs rebelles lors de la rébellion de 1837 au Haut-Canada ?",
+    "choices": [
+      "William Lyon Mackenzie",
+      "Robert Baldwin",
+      "John A. Macdonald",
+      "Egerton Ryerson"
+    ],
+    "answer": "William Lyon Mackenzie",
+    "explanation": "William Lyon Mackenzie, premier maire de Toronto, a mené la rébellion de 1837 au Haut-Canada ; le soulèvement a été rapidement écrasé.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 17"
+  },
+  {
+    "id": "q142",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Lors de la conférence de Québec d'octobre 1864, les délégués ont adopté un plan détaillé de la Confédération. Comment l'appelle-t-on ?",
+    "choices": [
+      "Les 72 résolutions",
+      "Les 92 résolutions",
+      "L'Acte de Québec",
+      "La Proclamation de Québec"
+    ],
+    "answer": "Les 72 résolutions",
+    "explanation": "Les 72 résolutions de Québec ont servi de base à l'Acte de l'Amérique du Nord britannique qui a créé le Canada en 1867.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 18"
+  },
+  {
+    "id": "q144",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel journal influent de Toronto George Brown, Père de la Confédération, avait-il fondé ?",
+    "choices": [
+      "The Gazette",
+      "La Presse",
+      "The Globe",
+      "The Telegram"
+    ],
+    "answer": "The Globe",
+    "explanation": "George Brown a fondé le journal The Globe à Toronto et a été un ardent défenseur de la représentation proportionnelle à la population et de l'union des colonies.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 18"
+  },
+  {
+    "id": "q153",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Où le dernier crampon du chemin de fer Canadien Pacifique a-t-il été enfoncé le 7 novembre 1885 ?",
+    "choices": [
+      "À Craigellachie, en Colombie-Britannique",
+      "À Winnipeg, au Manitoba",
+      "À Calgary, en Alberta",
+      "À Port Moody, en Colombie-Britannique"
+    ],
+    "answer": "À Craigellachie, en Colombie-Britannique",
+    "explanation": "Le dernier crampon a été enfoncé à Craigellachie, dans les montagnes de la Colombie-Britannique, achevant la ligne qui reliait l'est du Canada au Pacifique.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 20"
+  },
+  {
+    "id": "q155",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel groupe d'immigrants a fourni une grande partie de la main-d'œuvre qui a construit le Canadien Pacifique dans les Rocheuses, avant d'être frappé d'une taxe d'entrée discriminatoire ?",
+    "choices": [
+      "Les immigrants irlandais",
+      "Les immigrants ukrainiens",
+      "Les immigrants chinois",
+      "Les immigrants écossais"
+    ],
+    "answer": "Les immigrants chinois",
+    "explanation": "Des milliers de travailleurs chinois ont construit les sections les plus dangereuses du chemin de fer en Colombie-Britannique ; Ottawa leur a ensuite imposé une taxe d'entrée, abolie seulement en 1947.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 20 (La taxe d’entrée a été supprimée en 1923. La loi d’exclusion qui l’a remplacée a été abrogée en 1947.)"
+  },
+  {
+    "id": "q158",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "En 1896, la découverte d'or près de quelle ville a déclenché la ruée vers l'or du Klondike ?",
+    "choices": [
+      "Whitehorse",
+      "Dawson City",
+      "Yellowknife",
+      "Skagway"
+    ],
+    "answer": "Dawson City",
+    "explanation": "L'or découvert en 1896 dans le ruisseau Bonanza, près de Dawson City, a attiré des dizaines de milliers de prospecteurs au Yukon.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 50"
+  },
+  {
+    "id": "q160",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel ministre de l'Intérieur, sous Wilfrid Laurier, a lancé une campagne massive de recrutement d'immigrants pour peupler les Prairies ?",
+    "choices": [
+      "Robert Borden",
+      "Clifford Sifton",
+      "Arthur Meighen",
+      "Tommy Douglas"
+    ],
+    "answer": "Clifford Sifton",
+    "explanation": "Clifford Sifton a fait la promotion du Canada partout en Europe et en Amérique, attirant des centaines de milliers d'immigrants vers l'Ouest.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 20"
+  },
+  {
+    "id": "q161",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel type d'immigrants Clifford Sifton cherchait-il surtout pour coloniser les Prairies ?",
+    "choices": [
+      "Des ouvriers d'usine",
+      "Des marchands",
+      "Des mineurs seulement",
+      "Des fermiers expérimentés, notamment d'Europe centrale et de l'Est"
+    ],
+    "answer": "Des fermiers expérimentés, notamment d'Europe centrale et de l'Est",
+    "explanation": "Sifton recherchait des agriculteurs robustes, dont de nombreux Ukrainiens et autres Européens de l'Est, capables de cultiver les terres des Prairies.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 20"
+  },
+  {
+    "id": "q163",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Lors de la deuxième bataille d'Ypres en 1915, à quelle nouvelle arme les soldats canadiens ont-ils fait face pour la première fois ?",
+    "choices": [
+      "Les chars d'assaut",
+      "Les sous-marins",
+      "Le gaz toxique",
+      "Les avions à réaction"
+    ],
+    "answer": "Le gaz toxique",
+    "explanation": "À Ypres, en avril 1915, les Allemands ont utilisé du gaz chloré ; les Canadiens ont tenu leurs positions malgré cette arme nouvelle et terrifiante.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 21"
+  },
+  {
+    "id": "q164",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "À la bataille de la Somme, le 1er juillet 1916, quel régiment a été presque anéanti à Beaumont-Hamel ?",
+    "choices": [
+      "Le Royal Newfoundland Regiment",
+      "Le Royal 22e Régiment",
+      "Le Princess Patricia's Canadian Light Infantry",
+      "Le Black Watch"
+    ],
+    "answer": "Le Royal Newfoundland Regiment",
+    "explanation": "Le 1er juillet 1916, le régiment de Terre-Neuve a été décimé à Beaumont-Hamel ; cette date reste un jour de commémoration à Terre-Neuve-et-Labrador.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 21 et 23"
+  },
+  {
+    "id": "q165",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "À la bataille de la crête de Vimy en avril 1917, qu'est-ce qui s'est produit pour la première fois ?",
+    "choices": [
+      "Le Canada a utilisé des chars d'assaut",
+      "Les quatre divisions du Corps canadien ont combattu ensemble",
+      "Des femmes ont combattu au front",
+      "Le Canada a déclaré la guerre de façon indépendante"
+    ],
+    "answer": "Les quatre divisions du Corps canadien ont combattu ensemble",
+    "explanation": "À Vimy, les quatre divisions canadiennes ont attaqué ensemble pour la première fois et ont pris une position que les Alliés n'avaient pas réussi à conquérir auparavant.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 21"
+  },
+  {
+    "id": "q166",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "En 1917, les Canadiens ont remporté une victoire coûteuse, dans la boue et sous la pluie, pour prendre quel village de Belgique ?",
+    "choices": [
+      "Ypres seulement",
+      "Passchendaele",
+      "Arras",
+      "Verdun"
+    ],
+    "answer": "Passchendaele",
+    "explanation": "La bataille de Passchendaele, à l'automne 1917, a coûté très cher aux Canadiens, mais ils ont atteint leur objectif dans des conditions épouvantables.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 21"
+  },
+  {
+    "id": "q171",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quelle mesure controversée, imposée en 1917 puis de nouveau en 1944, a profondément divisé le Canada pendant les guerres mondiales ?",
+    "choices": [
+      "La conscription (le service militaire obligatoire)",
+      "Le rationnement de l'essence",
+      "L'interdiction de l'alcool",
+      "La censure de la presse"
+    ],
+    "answer": "La conscription (le service militaire obligatoire)",
+    "explanation": "La conscription a provoqué de graves crises politiques, opposant notamment de nombreux Canadiens français, qui s'y opposaient, au reste du pays.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 21 et 23"
+  },
+  {
+    "id": "q177",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Pendant la campagne d'Italie (1943-1945), les Canadiens ont livré une bataille acharnée, maison par maison, pour prendre quelle ville ?",
+    "choices": [
+      "Rome",
+      "Naples",
+      "Ortona",
+      "Venise"
+    ],
+    "answer": "Ortona",
+    "explanation": "La bataille d'Ortona, en décembre 1943, est l'une des plus dures de la campagne d'Italie ; les Canadiens y ont mis au point des techniques de combat urbain.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 23"
+  },
+  {
+    "id": "q180",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Environ combien de femmes canadiennes ont servi en uniforme pendant la Seconde Guerre mondiale ?",
+    "choices": [
+      "Plus de 50 000",
+      "Environ 500",
+      "Environ 5 000",
+      "Plus de 500 000"
+    ],
+    "answer": "Plus de 50 000",
+    "explanation": "Plus de 50 000 femmes ont servi dans les forces armées canadiennes pendant la Seconde Guerre mondiale, dans des rôles de soutien essentiels, sans compter les nombreuses travailleuses d'usine.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 23"
+  },
+  {
+    "id": "q182",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Comment appelle-t-on la forte augmentation du taux de natalité qui a suivi la Seconde Guerre mondiale ?",
+    "choices": [
+      "La Révolution tranquille",
+      "Le baby-boom",
+      "La génération silencieuse",
+      "L'exode rural"
+    ],
+    "answer": "Le baby-boom",
+    "explanation": "Après la guerre, le retour des soldats, la prospérité et la hausse des mariages ont provoqué un baby-boom qui a transformé la société canadienne.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 23"
+  },
+  {
+    "id": "q184",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "En quelle année le Canada a-t-il été l'un des membres fondateurs de l'OTAN (Organisation du Traité de l'Atlantique Nord) ?",
+    "choices": [
+      "1945",
+      "1957",
+      "1949",
+      "1963"
+    ],
+    "answer": "1949",
+    "explanation": "L'OTAN a été créée en 1949, au début de la guerre froide, pour assurer la défense collective de l'Occident ; le Canada en est un membre fondateur.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 24"
+  },
+  {
+    "id": "q186",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quelle province, sous le premier ministre Tommy Douglas, a été la première à mettre en place un régime public d'assurance-maladie ?",
+    "choices": [
+      "L'Alberta",
+      "La Saskatchewan",
+      "Le Manitoba",
+      "L'Ontario"
+    ],
+    "answer": "La Saskatchewan",
+    "explanation": "Le régime d'assurance-maladie de la Saskatchewan, lancé sous Tommy Douglas, a servi de modèle au programme national adopté par le gouvernement fédéral dans les années 1960.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 24"
+  },
+  {
+    "id": "q187",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "En 1959, le Canada et les États-Unis ont inauguré conjointement quelle grande voie navigable reliant les Grands Lacs à l'Atlantique ?",
+    "choices": [
+      "Le canal de Lachine",
+      "La voie maritime du Saint-Laurent",
+      "Le canal Rideau",
+      "Le canal de Panama"
+    ],
+    "answer": "La voie maritime du Saint-Laurent",
+    "explanation": "La voie maritime du Saint-Laurent, inaugurée en 1959, permet aux navires océaniques d'atteindre les Grands Lacs grâce à un système d'écluses.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 44 et 47–48"
+  },
+  {
+    "id": "q189",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel événement mondial Montréal a-t-elle accueilli en 1967, année du centenaire de la Confédération ?",
+    "choices": [
+      "Les Jeux olympiques d'été",
+      "Le sommet du G7",
+      "La Coupe du monde de football",
+      "L'exposition universelle Expo 67"
+    ],
+    "answer": "L'exposition universelle Expo 67",
+    "explanation": "Expo 67, dont le thème était « Terre des Hommes », a attiré environ 50 millions de visiteurs et a été un moment fort des célébrations du centenaire du Canada.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 18"
+  },
+  {
+    "id": "q190",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quelle ville canadienne a accueilli les Jeux olympiques d'été de 1976 ?",
+    "choices": [
+      "Toronto",
+      "Vancouver",
+      "Calgary",
+      "Montréal"
+    ],
+    "answer": "Montréal",
+    "explanation": "Montréal a accueilli les Jeux olympiques d'été de 1976, les premiers Jeux d'été tenus au Canada.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 26"
+  },
+  {
+    "id": "q192",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "En quelle année Calgary a-t-elle accueilli les Jeux olympiques d'hiver ?",
+    "choices": [
+      "1976",
+      "1980",
+      "1988",
+      "2010"
+    ],
+    "answer": "1988",
+    "explanation": "Calgary a accueilli les Jeux olympiques d'hiver de 1988, les premiers Jeux d'hiver organisés au Canada.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 26"
+  },
+  {
+    "id": "q193",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Qui a été la première femme première ministre du Canada ?",
+    "choices": [
+      "Agnes Macphail",
+      "Kim Campbell",
+      "Jeanne Sauvé",
+      "Beverley McLachlin"
+    ],
+    "answer": "Kim Campbell",
+    "explanation": "Kim Campbell est devenue la première femme première ministre du Canada en 1993; Agnes Macphail avait été, elle, la première femme élue députée, en 1921.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 21 et 31"
+  },
+  {
+    "id": "q194",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "En quelle année le Parlement du Canada a-t-il adopté la Loi sur les Indiens ?",
+    "choices": [
+      "1867",
+      "1876",
+      "1931",
+      "1982"
+    ],
+    "answer": "1876",
+    "explanation": "Adoptée en 1876, la Loi sur les Indiens encadre notamment le statut, les terres de réserve et l'administration des Premières Nations; elle a été modifiée à plusieurs reprises depuis.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 10"
+  },
+  {
+    "id": "q195",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "Quel premier ministre canadien est resté le plus longtemps en poste ?",
+    "choices": [
+      "Sir John A. Macdonald",
+      "Sir Wilfrid Laurier",
+      "William Lyon Mackenzie King",
+      "Pierre Elliott Trudeau"
+    ],
+    "answer": "William Lyon Mackenzie King",
+    "explanation": "William Lyon Mackenzie King a été premier ministre pendant environ 22 ans au total (1921-1926, 1926-1930 et 1935-1948), soit le plus long séjour au pouvoir d'un premier ministre canadien.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 31"
+  },
+  {
+    "id": "q196",
+    "module_id": "histoire",
+    "module": "Histoire du Canada",
+    "module_order": 3,
+    "question": "En 1896, la ruée vers l'or du Klondike a attiré des milliers de chercheurs d'or vers quel endroit ?",
+    "choices": [
+      "Whitehorse, au Yukon",
+      "Dawson City, au Yukon",
+      "Yellowknife, dans les Territoires du Nord-Ouest",
+      "Vancouver, en Colombie-Britannique"
+    ],
+    "answer": "Dawson City, au Yukon",
+    "explanation": "L'or a été découvert en 1896 près de Dawson City, au Yukon, ce qui a déclenché la ruée vers l'or du Klondike; Whitehorse est la capitale actuelle du Yukon, mais ce n'est pas le lieu de la découverte.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 19 et 50"
+  },
+  {
+    "id": "q203",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Après la Seconde Guerre mondiale, comment appelle-t-on la forte hausse des naissances qu'a connue le Canada ?",
+    "choices": [
+      "Le baby-boom",
+      "La Révolution tranquille",
+      "La Grande Dépression",
+      "Le boom pétrolier"
+    ],
+    "answer": "Le baby-boom",
+    "explanation": "Après 1945, le Canada a connu une période de prospérité et une forte augmentation des naissances appelée le baby-boom.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 24"
+  },
+  {
+    "id": "q205",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Dans quelle décennie le régime universel d'assurance-maladie a-t-il été mis en place à l'échelle du Canada ?",
+    "choices": [
+      "Les années 1930",
+      "Les années 1950",
+      "Les années 1960",
+      "Les années 1990"
+    ],
+    "answer": "Les années 1960",
+    "explanation": "Dans les années 1960, le Canada s'est doté d'un système public d'assurance-maladie universelle, financé par les impôts.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 24"
+  },
+  {
+    "id": "q210",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Qui était premier ministre du Canada lors du rapatriement de la Constitution en 1982 ?",
+    "choices": [
+      "John Diefenbaker",
+      "Lester B. Pearson",
+      "Pierre Elliott Trudeau",
+      "Brian Mulroney"
+    ],
+    "answer": "Pierre Elliott Trudeau",
+    "explanation": "C'est sous le premier ministre Pierre Elliott Trudeau que la Constitution a été rapatriée du Royaume-Uni en 1982.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 8 et 24"
+  },
+  {
+    "id": "q211",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Quel texte, adopté en 1960, a précédé la Charte en protégeant les droits des Canadiens au niveau fédéral ?",
+    "choices": [
+      "La Déclaration canadienne des droits",
+      "L'Acte de l'Amérique du Nord britannique",
+      "Le Statut de Westminster",
+      "La Loi sur les mesures de guerre"
+    ],
+    "answer": "La Déclaration canadienne des droits",
+    "explanation": "La Déclaration canadienne des droits, adoptée en 1960 sous John Diefenbaker, a précédé la Charte de 1982.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 8"
+  },
+  {
+    "id": "q212",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "En quelle année le multiculturalisme est-il devenu une politique officielle du gouvernement du Canada ?",
+    "choices": [
+      "1965",
+      "1971",
+      "1982",
+      "1999"
+    ],
+    "answer": "1971",
+    "explanation": "Le Canada a adopté une politique officielle de multiculturalisme en 1971, reconnaissant la diversité de sa population.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 25"
+  },
+  {
+    "id": "q213",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Quel grand événement international Montréal a-t-elle accueilli en 1967, année du centenaire de la Confédération ?",
+    "choices": [
+      "Les Jeux olympiques d'été",
+      "Expo 67",
+      "Le Sommet du G7",
+      "La Coupe du monde de hockey"
+    ],
+    "answer": "Expo 67",
+    "explanation": "Expo 67, l'exposition universelle de Montréal, a été un moment fort des célébrations du centenaire du Canada en 1967.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 18 et 40"
+  },
+  {
+    "id": "q214",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "En quelle année l'Accord de libre-échange entre le Canada et les États-Unis est-il entré en vigueur ?",
+    "choices": [
+      "1979",
+      "1984",
+      "1989",
+      "2001"
+    ],
+    "answer": "1989",
+    "explanation": "L'Accord de libre-échange Canada–États-Unis est entré en vigueur en 1989, éliminant de nombreux droits de douane.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 42 (Le guide donne 1988 pour la négociation. Affaires mondiales Canada donne le 1er janvier 1989 pour l’entrée en vigueur.)"
+  },
+  {
+    "id": "q218",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Qu'est-ce que le G7, dont le Canada fait partie ?",
+    "choices": [
+      "Un groupe de sept provinces canadiennes",
+      "Un groupe de grands pays industrialisés qui coordonnent leurs politiques économiques",
+      "Une alliance militaire de sept pays",
+      "Un organisme de l'ONU chargé des réfugiés"
+    ],
+    "answer": "Un groupe de grands pays industrialisés qui coordonnent leurs politiques économiques",
+    "explanation": "Le Canada est membre du G7, qui réunit de grands pays industrialisés pour discuter notamment d'économie.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 42 (La page 42 décrit le G8 dans le contexte historique de cette édition.)"
+  },
+  {
+    "id": "q221",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "L'APEC, dont le Canada est membre, regroupe des pays de quelle région du monde ?",
+    "choices": [
+      "L'Afrique",
+      "L'Europe de l'Est",
+      "L'Asie-Pacifique",
+      "L'Amérique du Sud"
+    ],
+    "answer": "L'Asie-Pacifique",
+    "explanation": "La Coopération économique de la zone Asie-Pacifique (APEC) favorise le commerce entre les pays riverains du Pacifique, dont le Canada.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 49"
+  },
+  {
+    "id": "q225",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Dans quelle ville les Jeux olympiques d'été de 1976 ont-ils eu lieu au Canada ?",
+    "choices": [
+      "Toronto",
+      "Vancouver",
+      "Montréal",
+      "Calgary"
+    ],
+    "answer": "Montréal",
+    "explanation": "Montréal a accueilli les Jeux olympiques d'été de 1976.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 26"
+  },
+  {
+    "id": "q226",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Dans quelle ville les Jeux olympiques d'hiver de 1988 ont-ils eu lieu au Canada ?",
+    "choices": [
+      "Calgary",
+      "Québec",
+      "Whistler",
+      "Edmonton"
+    ],
+    "answer": "Calgary",
+    "explanation": "Calgary, en Alberta, a accueilli les Jeux olympiques d'hiver de 1988.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 26"
+  },
+  {
+    "id": "q227",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Quel exploit le Canada a-t-il réalisé aux Jeux olympiques d'hiver de Vancouver en 2010 ?",
+    "choices": [
+      "Il n'a remporté aucune médaille",
+      "Il a remporté 14 médailles d'or, un record pour un pays hôte",
+      "Il a boycotté les Jeux",
+      "Il a remporté la première médaille de son histoire"
+    ],
+    "answer": "Il a remporté 14 médailles d'or, un record pour un pays hôte",
+    "explanation": "À Vancouver en 2010, le Canada a remporté 14 médailles d'or, plus que tout autre pays hôte des Jeux d'hiver avant lui.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 26 et 66–67"
+  },
+  {
+    "id": "q228",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Quel surnom donne-t-on au joueur de hockey Wayne Gretzky, détenteur de nombreux records ?",
+    "choices": [
+      "Le Rocket",
+      "La Merveille (The Great One)",
+      "Le Gros Bill",
+      "Monsieur Hockey"
+    ],
+    "answer": "La Merveille (The Great One)",
+    "explanation": "Wayne Gretzky, considéré comme le plus grand joueur de hockey, est surnommé « The Great One » (la Merveille).",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 26 et 39"
+  },
+  {
+    "id": "q230",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Pourquoi Terry Fox a-t-il dû interrompre son Marathon de l'espoir près de Thunder Bay, en Ontario ?",
+    "choices": [
+      "Il avait recueilli assez d'argent",
+      "Son cancer était réapparu et s'était propagé",
+      "L'hiver était arrivé",
+      "Il s'était cassé sa jambe valide"
+    ],
+    "answer": "Son cancer était réapparu et s'était propagé",
+    "explanation": "Après 143 jours et plus de 5 300 km, Terry Fox a dû s'arrêter parce que son cancer s'était propagé aux poumons.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 26"
+  },
+  {
+    "id": "q233",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Qui est devenu, en 1984, le premier Canadien à aller dans l'espace ?",
+    "choices": [
+      "Chris Hadfield",
+      "Roberta Bondar",
+      "Marc Garneau",
+      "Julie Payette"
+    ],
+    "answer": "Marc Garneau",
+    "explanation": "Marc Garneau a volé à bord de la navette spatiale américaine en 1984, devenant le premier Canadien dans l'espace.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 27"
+  },
+  {
+    "id": "q235",
+    "module_id": "moderne",
+    "module": "Le Canada moderne",
+    "module_order": 4,
+    "question": "Où Guglielmo Marconi a-t-il reçu, en 1901, le premier signal de radio transatlantique sans fil ?",
+    "choices": [
+      "À Halifax, en Nouvelle-Écosse",
+      "À St. John's, à Terre-Neuve",
+      "À Québec",
+      "À Victoria, en Colombie-Britannique"
+    ],
+    "answer": "À St. John's, à Terre-Neuve",
+    "explanation": "En 1901, Marconi a capté à Signal Hill, à St. John's, le premier signal sans fil ayant traversé l'Atlantique.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 27 et 46"
+  },
+  {
+    "id": "q241",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Comment appelle-t-on le représentant du monarque britannique dans chaque province canadienne ?",
+    "choices": [
+      "Le Commissaire",
+      "Le Lieutenant-gouverneur",
+      "Le Protecteur du citoyen",
+      "Le Premier ministre provincial"
+    ],
+    "answer": "Le Lieutenant-gouverneur",
+    "explanation": "Réponse : Le Lieutenant-gouverneur. Il exerce les fonctions honorifiques et constitutionnelles de la Couronne à l'échelle locale provinciale.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 29"
+  },
+  {
+    "id": "q244",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "De combien de députés la Chambre des communes à Ottawa est-elle approximativement composée actuellement ?",
+    "choices": [
+      "105",
+      "50",
+      "Plus de 330",
+      "500"
+    ],
+    "answer": "Plus de 330",
+    "explanation": "Réponse : Plus de 330. Le nombre de sièges augmente périodiquement pour refléter la croissance de la population des circonscriptions.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 28 et 30 (Le PDF mentionne 308 circonscriptions. Élections Canada en indique 343.)"
+  },
+  {
+    "id": "q258",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quelle couleur politique est traditionnellement associée au Parti libéral du Canada lors des campagnes électorales ?",
+    "choices": [
+      "Le bleu",
+      "Le rouge",
+      "Le vert",
+      "L'orange"
+    ],
+    "answer": "Le rouge",
+    "explanation": "Réponse : Le rouge. Le Parti conservateur utilise le bleu, le NPD utilise l'orange et ce parti utilise le rouge.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 31"
+  },
+  {
+    "id": "q263",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Qui a le droit de choisir le moment de déclencher des élections fédérales, dans la limite d'un mandat de 4 ans ?",
+    "choices": [
+      "Le Président de la Chambre",
+      "Le Premier ministre (en conseillant le Gouverneur général)",
+      "Le chef de l'opposition",
+      "Le Directeur général des élections"
+    ],
+    "answer": "Le Premier ministre (en conseillant le Gouverneur général)",
+    "explanation": "Réponse : Le Premier ministre (en conseillant le Gouverneur général). Le dirigeant du parti au pouvoir demande la dissolution du Parlement pour lancer la campagne électorale.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 30 (La page explique les élections à date fixe et la possibilité d’élections anticipées. Quatre ans correspond au calendrier ordinaire.)"
+  },
+  {
+    "id": "q277",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quel ordre de gouvernement est responsable de l’immigration et de la citoyenneté ?",
+    "choices": [
+      "Les municipalités",
+      "Le gouvernement fédéral",
+      "Les provinces seulement",
+      "Les territoires seulement"
+    ],
+    "answer": "Le gouvernement fédéral",
+    "explanation": "L’immigration et la citoyenneté canadienne relèvent du gouvernement fédéral, même si les provinces participent à l’accueil des nouveaux arrivants.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 28 et 33 (Le guide classe la citoyenneté au fédéral et l’immigration parmi les responsabilités partagées.)"
+  },
+  {
+    "id": "q278",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Le service postal national, Postes Canada, relève de quel ordre de gouvernement ?",
+    "choices": [
+      "Des municipalités",
+      "Des provinces",
+      "Du gouvernement fédéral",
+      "Des territoires"
+    ],
+    "answer": "Du gouvernement fédéral",
+    "explanation": "Le service postal est l’une des responsabilités du gouvernement fédéral énumérées dans le guide.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 28 (La page présente des compétences fédérales, sans énumérer le service postal.)"
+  },
+  {
+    "id": "q287",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Qui lit le discours du Trône qui ouvre une nouvelle session du Parlement ?",
+    "choices": [
+      "Le gouverneur général",
+      "Le chef de l’Opposition officielle",
+      "Le greffier de la Chambre des communes",
+      "Le juge en chef du Canada"
+    ],
+    "answer": "Le gouverneur général",
+    "explanation": "Le discours du Trône, qui présente le programme du gouvernement, est lu par le gouverneur général à l’ouverture de la session parlementaire.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 29"
+  },
+  {
+    "id": "q288",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Quel titre le gouverneur général porte-t-il à l’égard des Forces armées canadiennes ?",
+    "choices": [
+      "Ministre de la Défense",
+      "Chef d’état-major",
+      "Colonel honoraire",
+      "Commandant en chef du Canada"
+    ],
+    "answer": "Commandant en chef du Canada",
+    "explanation": "Le gouverneur général est le commandant en chef du Canada et représente le souverain auprès des Forces armées canadiennes.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 29"
+  },
+  {
+    "id": "q289",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Qui peut convoquer, proroger et dissoudre le Parlement fédéral ?",
+    "choices": [
+      "Le président du Sénat",
+      "Le gouverneur général",
+      "Le chef de l’Opposition officielle",
+      "La Cour suprême du Canada"
+    ],
+    "answer": "Le gouverneur général",
+    "explanation": "Sur l’avis du premier ministre, le gouverneur général convoque, proroge et dissout le Parlement.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 29"
+  },
+  {
+    "id": "q297",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Comment les sièges de la Chambre des communes sont-ils répartis entre les provinces ?",
+    "choices": [
+      "Également, le même nombre pour chaque province",
+      "Selon la population de chaque province",
+      "Selon la superficie de chaque province",
+      "Selon l’ancienneté de chaque province dans la Confédération"
+    ],
+    "answer": "Selon la population de chaque province",
+    "explanation": "Les sièges à la Chambre des communes sont répartis entre les provinces en fonction de leur population.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 28 et 30"
+  },
+  {
+    "id": "q306",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Le Bloc Québécois présente des candidats aux élections fédérales dans quelle partie du pays ?",
+    "choices": [
+      "Dans toutes les provinces",
+      "Dans les provinces de l’Atlantique seulement",
+      "Uniquement au Québec",
+      "Dans les territoires seulement"
+    ],
+    "answer": "Uniquement au Québec",
+    "explanation": "Le Bloc Québécois est un parti fédéral qui ne présente des candidats que dans les circonscriptions du Québec.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 31"
+  },
+  {
+    "id": "q308",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Lequel des partis suivants n’est PAS un parti politique fédéral ?",
+    "choices": [
+      "Le Parti libéral du Canada",
+      "Le Parti conservateur du Canada",
+      "Le Parti vert du Canada",
+      "Le Parti québécois"
+    ],
+    "answer": "Le Parti québécois",
+    "explanation": "Le Parti québécois est un parti provincial du Québec; les partis fédéraux présentent des candidats aux élections fédérales dans les circonscriptions.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 24 et 31"
+  },
+  {
+    "id": "q317",
+    "module_id": "gouvernement",
+    "module": "Gouvernement et démocratie",
+    "module_order": 5,
+    "question": "Combien de membres compte le Sénat du Canada ?",
+    "choices": [
+      "75",
+      "105",
+      "338",
+      "343"
+    ],
+    "answer": "105",
+    "explanation": "Le Sénat compte 105 sénateurs, nommés par le gouverneur général sur recommandation du premier ministre; à titre de comparaison, la Chambre des communes compte 343 députés.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 28"
+  },
+  {
+    "id": "q330",
+    "module_id": "elections",
+    "module": "Élections fédérales",
+    "module_order": 6,
+    "question": "Comment un électeur peut-il voter par la poste à une élection fédérale ?",
+    "choices": [
+      "En envoyant une simple lettre à son député",
+      "En votant sur le site Web d’un parti politique",
+      "En demandant à Élections Canada un bulletin de vote spécial et en le retournant par la poste avant l’échéance",
+      "En donnant son bulletin à un voisin qui le postera"
+    ],
+    "answer": "En demandant à Élections Canada un bulletin de vote spécial et en le retournant par la poste avant l’échéance",
+    "explanation": "Le vote par la poste se fait au moyen d’un bulletin de vote spécial demandé à Élections Canada; il doit être reçu avant la fermeture des bureaux le jour du scrutin.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 32"
+  },
+  {
+    "id": "q331",
+    "module_id": "elections",
+    "module": "Élections fédérales",
+    "module_order": 6,
+    "question": "Les citoyens canadiens qui vivent à l’étranger peuvent-ils voter aux élections fédérales ?",
+    "choices": [
+      "Non, jamais",
+      "Oui, mais seulement s’ils reviennent vivre au Canada",
+      "Oui, mais seulement aux élections provinciales",
+      "Oui, ils peuvent voter au moyen d’un bulletin de vote spécial, par la poste"
+    ],
+    "answer": "Oui, ils peuvent voter au moyen d’un bulletin de vote spécial, par la poste",
+    "explanation": "Les Canadiens qui résident à l’extérieur du pays peuvent exercer leur droit de vote par bulletin spécial, envoyé par la poste.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 32"
+  },
+  {
+    "id": "q339",
+    "module_id": "elections",
+    "module": "Élections fédérales",
+    "module_order": 6,
+    "question": "Selon la Constitution, à quelle fréquence des élections fédérales doivent-elles avoir lieu au minimum ?",
+    "choices": [
+      "Tous les deux ans",
+      "Tous les dix ans",
+      "Seulement lorsque le premier ministre le décide",
+      "Au moins tous les cinq ans"
+    ],
+    "answer": "Au moins tous les cinq ans",
+    "explanation": "La Constitution exige la tenue d’élections au moins tous les cinq ans; en pratique, elles ont souvent lieu avant la fin du mandat maximal.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 30"
+  },
+  {
+    "id": "q343",
+    "module_id": "elections",
+    "module": "Élections fédérales",
+    "module_order": 6,
+    "question": "En plus de voter les lois, quel service le député rend-il aux citoyens de sa circonscription ?",
+    "choices": [
+      "Il juge leurs causes devant les tribunaux",
+      "Il perçoit leurs impôts municipaux",
+      "Il nomme les fonctionnaires de leur région",
+      "Il les aide dans leurs démarches auprès du gouvernement fédéral, par exemple pour l’assurance-emploi ou l’immigration"
+    ],
+    "answer": "Il les aide dans leurs démarches auprès du gouvernement fédéral, par exemple pour l’assurance-emploi ou l’immigration",
+    "explanation": "Les députés aident les citoyens de leur circonscription à régler des problèmes liés aux programmes et services du gouvernement fédéral.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 30"
+  },
+  {
+    "id": "q349",
+    "module_id": "elections",
+    "module": "Élections fédérales",
+    "module_order": 6,
+    "question": "La carte d’information de l’électeur est-elle une pièce d’identité obligatoire pour voter ?",
+    "choices": [
+      "Non, c’est un aide-mémoire qui indique où voter; elle ne remplace pas les pièces justificatives demandées au bureau de vote",
+      "Oui, c’est la seule pièce acceptée",
+      "Oui, mais seulement pour le vote par anticipation",
+      "Non, car elle n’existe que pour les élections provinciales"
+    ],
+    "answer": "Non, c’est un aide-mémoire qui indique où voter; elle ne remplace pas les pièces justificatives demandées au bureau de vote",
+    "explanation": "La carte d’information de l’électeur aide l’électeur à trouver son bureau de vote, mais ce n’est pas une pièce d’identité.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 30 et 32 (Élections Canada accepte la carte comme preuve d’adresse avec une autre pièce autorisée portant le nom de l’électeur.)"
+  },
+  {
+    "id": "q351",
+    "module_id": "elections",
+    "module": "Élections fédérales",
+    "module_order": 6,
+    "question": "Que doit faire une personne qui veut se porter candidate avant le jour du scrutin ?",
+    "choices": [
+      "Obtenir l’approbation du premier ministre",
+      "Gagner une élection municipale d’abord",
+      "Payer ses impôts en avance",
+      "Déposer sa candidature auprès d’Élections Canada avant la date limite prévue"
+    ],
+    "answer": "Déposer sa candidature auprès d’Élections Canada avant la date limite prévue",
+    "explanation": "Pour figurer sur le bulletin de vote, un candidat doit déposer officiellement sa candidature avant l’échéance fixée pour le scrutin.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 30"
+  },
+  {
+    "id": "q354",
+    "module_id": "elections",
+    "module": "Élections fédérales",
+    "module_order": 6,
+    "question": "Quelle est la durée maximale d'un Parlement fédéral selon la Constitution ?",
+    "choices": [
+      "3 ans",
+      "4 ans",
+      "5 ans",
+      "7 ans"
+    ],
+    "answer": "5 ans",
+    "explanation": "La Constitution exige une élection fédérale au moins tous les cinq ans; en pratique, la loi sur les élections à date fixe prévoit un scrutin tous les quatre ans.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 30"
+  },
+  {
+    "id": "q363",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Quels tribunaux jugent les membres des Forces armées canadiennes accusés d'infractions au Code de discipline militaire ?",
+    "choices": [
+      "Les tribunaux militaires",
+      "Les cours des petites créances",
+      "Les cours provinciales",
+      "Les tribunaux administratifs"
+    ],
+    "answer": "Les tribunaux militaires",
+    "explanation": "Les tribunaux militaires jugent les membres des Forces armées canadiennes accusés d'infractions au Code de discipline militaire.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 37"
+  },
+  {
+    "id": "q365",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Quelles affaires sont entendues par les cours supérieures des provinces ?",
+    "choices": [
+      "Les crimes les plus graves et les affaires civiles importantes",
+      "Uniquement les contraventions municipales",
+      "Les infractions au Code de discipline militaire",
+      "Les litiges de très petits montants"
+    ],
+    "answer": "Les crimes les plus graves et les affaires civiles importantes",
+    "explanation": "Les cours supérieures provinciales entendent les crimes les plus graves et les affaires civiles les plus importantes.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 37"
+  },
+  {
+    "id": "q367",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Quel type de tribunal règle des litiges dans des domaines spécialisés, comme les relations de travail ou l'immigration ?",
+    "choices": [
+      "Les cours supérieures seulement",
+      "Les tribunaux administratifs",
+      "Les tribunaux militaires",
+      "Les cours martiales"
+    ],
+    "answer": "Les tribunaux administratifs",
+    "explanation": "Les tribunaux administratifs tranchent des litiges dans des domaines précis et spécialisés, par exemple les relations de travail ou l'immigration.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 37"
+  },
+  {
+    "id": "q369",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Quel numéro de téléphone compose-t-on en cas d'urgence pour joindre la police, les pompiers ou une ambulance au Canada ?",
+    "choices": [
+      "911",
+      "311",
+      "211",
+      "411"
+    ],
+    "answer": "911",
+    "explanation": "Partout au Canada, on compose le 911 en cas d'urgence pour joindre la police, les pompiers ou un service d'ambulance.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 9, 33 et 37 (Les services d’urgence sont abordés. Le guide ne confirme pas une couverture du 911 partout au Canada.)"
+  },
+  {
+    "id": "q371",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "La GRC sert de police provinciale à contrat dans la plupart des provinces et des territoires, sauf dans trois provinces qui ont leur propre police provinciale. Lesquelles ?",
+    "choices": [
+      "L'Ontario, le Québec et Terre-Neuve-et-Labrador",
+      "L'Île-du-Prince-Édouard, le Yukon et le Nunavut",
+      "L'Alberta, la Saskatchewan et le Manitoba",
+      "La Colombie-Britannique, le Nouveau-Brunswick et la Nouvelle-Écosse"
+    ],
+    "answer": "L'Ontario, le Québec et Terre-Neuve-et-Labrador",
+    "explanation": "L'Ontario, le Québec et Terre-Neuve-et-Labrador ont leur propre service de police provincial ; ailleurs, la GRC assure ce service à contrat.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 33 et 37 (Le guide cite l’Ontario et le Québec comme exceptions. La question présente Terre-Neuve-et-Labrador comme une troisième exception provinciale.)"
+  },
+  {
+    "id": "q372",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Quel est le service de police provincial du Québec ?",
+    "choices": [
+      "La Police provinciale de l'Ontario",
+      "La Royal Newfoundland Constabulary",
+      "La GRC",
+      "La Sûreté du Québec"
+    ],
+    "answer": "La Sûreté du Québec",
+    "explanation": "La Sûreté du Québec est le service de police provincial du Québec.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 33 et 37"
+  },
+  {
+    "id": "q373",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Quel corps de police constitue le service de police provincial de Terre-Neuve-et-Labrador ?",
+    "choices": [
+      "La GRC dans tous les cas",
+      "La Police provinciale de l'Ontario",
+      "La Royal Newfoundland Constabulary",
+      "La Sûreté du Québec"
+    ],
+    "answer": "La Royal Newfoundland Constabulary",
+    "explanation": "La Royal Newfoundland Constabulary est le service de police provincial de Terre-Neuve-et-Labrador.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 37"
+  },
+  {
+    "id": "q377",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Dans un procès criminel, qui présente la preuve contre l'accusé au nom de l'État ?",
+    "choices": [
+      "Le juge",
+      "Obligatoirement la victime elle-même",
+      "Le jury",
+      "Le procureur de la Couronne"
+    ],
+    "answer": "Le procureur de la Couronne",
+    "explanation": "Dans une affaire criminelle, c'est le procureur de la Couronne qui poursuit l'accusé et présente la preuve au nom de l'État.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 36"
+  },
+  {
+    "id": "q382",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Dans un procès devant jury, à qui revient la décision de déclarer l'accusé coupable ou non coupable ?",
+    "choices": [
+      "Au juge seul",
+      "Au jury",
+      "Au ministre de la Justice",
+      "Au procureur de la Couronne"
+    ],
+    "answer": "Au jury",
+    "explanation": "Dans un procès avec jury, ce sont les jurés, des citoyens, qui décident si l'accusé est coupable ou non coupable.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 9 et 37"
+  },
+  {
+    "id": "q383",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Comment appelle-t-on la décision rendue par un jury à la fin d'un procès ?",
+    "choices": [
+      "Le verdict",
+      "L'appel",
+      "La sentence",
+      "Le mandat d'arrestation"
+    ],
+    "answer": "Le verdict",
+    "explanation": "La décision par laquelle le jury déclare l'accusé coupable ou non coupable s'appelle le verdict.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 37"
+  },
+  {
+    "id": "q384",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Lorsqu'un accusé est déclaré coupable, qui détermine la peine à lui imposer ?",
+    "choices": [
+      "Le juge",
+      "L'avocat de la défense",
+      "Le policier qui a procédé à l'arrestation",
+      "Le jury"
+    ],
+    "answer": "Le juge",
+    "explanation": "C'est le juge qui prononce la peine imposée à une personne déclarée coupable, en tenant compte de la loi.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 36–37"
+  },
+  {
+    "id": "q385",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Si la police vous arrête, quel droit pouvez-vous exercer sans délai ?",
+    "choices": [
+      "Le droit de consulter un avocat",
+      "Le droit de quitter le pays",
+      "Le droit de ne jamais comparaître devant le tribunal",
+      "Le droit de refuser de donner votre nom"
+    ],
+    "answer": "Le droit de consulter un avocat",
+    "explanation": "Toute personne arrêtée a le droit d'être informée des motifs de son arrestation et de consulter un avocat sans délai.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 36–37"
+  },
+  {
+    "id": "q387",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Que peut faire un tribunal à l'égard d'une loi qu'il juge contraire à la Constitution ?",
+    "choices": [
+      "Il doit demander la permission au premier ministre avant de l'appliquer",
+      "Il ne peut absolument rien faire",
+      "Il peut la modifier lui-même",
+      "Il peut la déclarer invalide"
+    ],
+    "answer": "Il peut la déclarer invalide",
+    "explanation": "La Constitution est la loi suprême du Canada : les tribunaux peuvent déclarer invalide une loi qui la contredit.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 8"
+  },
+  {
+    "id": "q388",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Dans un procès criminel au Canada, l'accusé a le droit d'être jugé dans laquelle des langues suivantes, à son choix ?",
+    "choices": [
+      "En français ou en anglais",
+      "Dans n'importe quelle langue du monde",
+      "Uniquement en français",
+      "Uniquement en anglais"
+    ],
+    "answer": "En français ou en anglais",
+    "explanation": "L'accusé a le droit de subir son procès criminel dans la langue officielle de son choix, le français ou l'anglais.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 8 et 11"
+  },
+  {
+    "id": "q390",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "Les militaires canadiens qui commettent une infraction dans l'exercice de leurs fonctions sont jugés selon quel code ?",
+    "choices": [
+      "Le Code du travail",
+      "Le Code de la route",
+      "Le Code de discipline militaire",
+      "Le Code civil du Québec"
+    ],
+    "answer": "Le Code de discipline militaire",
+    "explanation": "Les infractions commises par les membres des Forces armées canadiennes sont jugées selon le Code de discipline militaire, devant des tribunaux militaires.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 37"
+  },
+  {
+    "id": "q392",
+    "module_id": "justice",
+    "module": "Justice et lois",
+    "module_order": 7,
+    "question": "En quelle année la Gendarmerie royale du Canada (GRC) a-t-elle été fondée ?",
+    "choices": [
+      "1867",
+      "1873",
+      "1885",
+      "1920"
+    ],
+    "answer": "1873",
+    "explanation": "La police fédérale du Canada a été fondée en 1873 sous le nom de Police à cheval du Nord-Ouest; elle est devenue la Gendarmerie royale du Canada.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 19 (La date de 1873 correspond à la création de la Police à cheval du Nord-Ouest, ancêtre de la GRC.)"
+  },
+  {
+    "id": "q396",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quel arbre national du Canada est célébré pour sa sève sucrée et figure au centre du drapeau national ?",
+    "choices": [
+      "Le pin blanc",
+      "Le chêne rouge",
+      "L'érable",
+      "Le bouleau jaune"
+    ],
+    "answer": "L'érable",
+    "explanation": "Réponse : L'érable. La feuille de cet arbre est le symbole visuel le plus universellement reconnu du Canada.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 38"
+  },
+  {
+    "id": "q401",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quel symbole officiel du Québec comporte trois branches dorées représentant historiquement la royauté française ?",
+    "choices": [
+      "Le trille blanc",
+      "La fleur de lys",
+      "Le castor doré",
+      "La feuille d'érable royale"
+    ],
+    "answer": "La fleur de lys",
+    "explanation": "Réponse : La fleur de lys. Elle figure en quatre exemplaires sur le drapeau actuel de la province (le Fleurdelisé).",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 38 et 47 (La page 38 explique la symbolique de la fleur de lys. Sur le drapeau du Québec, les fleurs de lys sont blanches.)"
+  },
+  {
+    "id": "q404",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quelle fleur emblématique représente la province de l'Ontario ?",
+    "choices": [
+      "Le lys blanc",
+      "Le trille blanc",
+      "La rose sauvage",
+      "Le sabot de la Vierge"
+    ],
+    "answer": "Le trille blanc",
+    "explanation": "Réponse : Le trille blanc. Cette fleur à trois pétales pousse au printemps dans les forêts de l'Est et du Centre.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 38"
+  },
+  {
+    "id": "q406",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Sur quel drapeau provincial ou territorial retrouve-t-on traditionnellement une feuille d'érable stylisée et le blason royal de l'Écosse ?",
+    "choices": [
+      "Le Manitoba",
+      "La Colombie-Britannique",
+      "L'Île-du-Prince-Édouard",
+      "La Nouvelle-Écosse"
+    ],
+    "answer": "La Nouvelle-Écosse",
+    "explanation": "Réponse : La Nouvelle-Écosse. Le nom de cette province signifie 'Nouvelle-Écosse' en latin, ce qui explique son lien direct avec l'héraldique écossaise.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 38 et 46 (Patrimoine canadien décrit une croix de Saint-André bleue et un écusson écossais sur le drapeau de la Nouvelle-Écosse.)"
+  },
+  {
+    "id": "q407",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Sur quelle pièce de monnaie canadienne courante retrouve-t-on l'image d'un plongeon huard (un oiseau aquatique) ?",
+    "choices": [
+      "La pièce de 25 cents",
+      "La pièce de 1 dollar",
+      "La pièce de 2 dollars",
+      "La pièce de 5 cents"
+    ],
+    "answer": "La pièce de 1 dollar",
+    "explanation": "Réponse : La pièce de 1 dollar. C'est en raison de cet oiseau que la monnaie d'un dollar est surnommée le 'Loonie' en anglais.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 39"
+  },
+  {
+    "id": "q408",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quel jour célèbre-t-on le Jour du drapeau national du Canada ?",
+    "choices": [
+      "Le 1er juillet",
+      "Le 15 février",
+      "Le 11 novembre",
+      "Le 24 juin"
+    ],
+    "answer": "Le 15 février",
+    "explanation": "Le Jour du drapeau national est célébré le 15 février, date à laquelle le drapeau a été hissé pour la première fois en 1965.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 38"
+  },
+  {
+    "id": "q411",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Qui a composé la musique de l'hymne national « Ô Canada » ?",
+    "choices": [
+      "Adolphe-Basile Routhier",
+      "Calixa Lavallée",
+      "Robert Stanley Weir",
+      "Alexander Graham Bell"
+    ],
+    "answer": "Calixa Lavallée",
+    "explanation": "La musique d'« Ô Canada » a été composée par Calixa Lavallée en 1880.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 40"
+  },
+  {
+    "id": "q412",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Qui a écrit les paroles françaises originales d'« Ô Canada » ?",
+    "choices": [
+      "Calixa Lavallée",
+      "Louis Riel",
+      "Adolphe-Basile Routhier",
+      "Wilfrid Laurier"
+    ],
+    "answer": "Adolphe-Basile Routhier",
+    "explanation": "Les paroles françaises d'« Ô Canada » ont été écrites par Adolphe-Basile Routhier.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 40"
+  },
+  {
+    "id": "q413",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "À l'occasion de quelle fête « Ô Canada » a-t-il été interprété pour la première fois en 1880 ?",
+    "choices": [
+      "La fête du Canada",
+      "La fête de la Saint-Jean-Baptiste",
+      "Le jour du Souvenir",
+      "Noël"
+    ],
+    "answer": "La fête de la Saint-Jean-Baptiste",
+    "explanation": "« Ô Canada » a été chanté pour la première fois le 24 juin 1880, lors des célébrations de la Saint-Jean-Baptiste à Québec.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 40"
+  },
+  {
+    "id": "q417",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Dans les armoiries du Canada, quel étendard la licorne tient-elle ?",
+    "choices": [
+      "L'Union Jack",
+      "L'étendard aux fleurs de lis de la France royale",
+      "Le drapeau à la feuille d'érable",
+      "L'étendard de l'Écosse"
+    ],
+    "answer": "L'étendard aux fleurs de lis de la France royale",
+    "explanation": "Le lion tient l'Union Jack et la licorne, symbole de l'Écosse, tient l'étendard aux fleurs de lis de la France royale.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 38"
+  },
+  {
+    "id": "q423",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Que représente un inukshuk, repère de pierres empilées par les Inuits ?",
+    "choices": [
+      "Un lieu de sépulture seulement",
+      "Un repère qui guide les voyageurs et signale un chemin ou un lieu dans le Nord",
+      "Une frontière entre provinces",
+      "Un autel religieux"
+    ],
+    "answer": "Un repère qui guide les voyageurs et signale un chemin ou un lieu dans le Nord",
+    "explanation": "Les inukshuks servent de repères de navigation et de communication dans le paysage arctique; ils symbolisent le Nord canadien.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 50–51"
+  },
+  {
+    "id": "q424",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quel symbole figure au centre du drapeau du Nunavut ?",
+    "choices": [
+      "Un ours polaire",
+      "Un inukshuk",
+      "Une feuille d'érable",
+      "Un caribou"
+    ],
+    "answer": "Un inukshuk",
+    "explanation": "Le drapeau du Nunavut arbore un inukshuk rouge en son centre, symbole de la culture inuite.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 51"
+  },
+  {
+    "id": "q426",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "En quelle année la Croix de Victoria canadienne a-t-elle été créée ?",
+    "choices": [
+      "1918",
+      "1945",
+      "1993",
+      "2000"
+    ],
+    "answer": "1993",
+    "explanation": "La Croix de Victoria canadienne, plus haute distinction militaire du pays, a été créée en 1993.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 41"
+  },
+  {
+    "id": "q430",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quelle effigie apparaît traditionnellement sur les pièces de monnaie canadiennes ?",
+    "choices": [
+      "Celle du premier ministre",
+      "Celle du souverain (le monarque)",
+      "Celle du gouverneur général",
+      "Celle de sir John A. Macdonald"
+    ],
+    "answer": "Celle du souverain (le monarque)",
+    "explanation": "Les pièces de monnaie canadiennes portent l'effigie du monarque, chef d'État du Canada.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 18 et 38"
+  },
+  {
+    "id": "q431",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quelle célèbre goélette de la Nouvelle-Écosse figure sur la pièce canadienne de 10 cents ?",
+    "choices": [
+      "Le Bluenose",
+      "Le Marco Polo",
+      "Le Queen Mary",
+      "L'Empress of Ireland"
+    ],
+    "answer": "Le Bluenose",
+    "explanation": "Le Bluenose, goélette de course légendaire de la Nouvelle-Écosse, figure sur la pièce de 10 cents.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 46"
+  },
+  {
+    "id": "q432",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quel animal figure sur la pièce canadienne de 2 dollars ?",
+    "choices": [
+      "Un castor",
+      "Un caribou",
+      "Un ours polaire",
+      "Un orignal"
+    ],
+    "answer": "Un ours polaire",
+    "explanation": "La pièce de 2 dollars arbore un ours polaire, symbole du Nord canadien.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 50"
+  },
+  {
+    "id": "q433",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quel tartan a été désigné tartan national officiel du Canada ?",
+    "choices": [
+      "Le tartan royal Stewart",
+      "Le tartan à la feuille d'érable",
+      "Le tartan de la Nouvelle-Écosse",
+      "Le tartan Black Watch"
+    ],
+    "answer": "Le tartan à la feuille d'érable",
+    "explanation": "Le tartan à la feuille d'érable, aux couleurs des feuilles d'érable au fil des saisons, est le tartan national du Canada.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 38"
+  },
+  {
+    "id": "q436",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Sous quel premier ministre le drapeau actuel du Canada a-t-il été adopté, en 1965 ?",
+    "choices": [
+      "John Diefenbaker",
+      "Pierre Elliott Trudeau",
+      "Lester B. Pearson",
+      "Louis St-Laurent"
+    ],
+    "answer": "Lester B. Pearson",
+    "explanation": "Le drapeau à la feuille d'érable a été adopté en 1965 sous le gouvernement de Lester B. Pearson, après un long débat au Parlement.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 38"
+  },
+  {
+    "id": "q437",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Sur le poème de quel auteur les paroles anglaises d'« Ô Canada » sont-elles basées ?",
+    "choices": [
+      "Robert Stanley Weir",
+      "John McCrae",
+      "Stephen Leacock",
+      "Thomas D'Arcy McGee"
+    ],
+    "answer": "Robert Stanley Weir",
+    "explanation": "Les paroles anglaises d'« Ô Canada » s'inspirent d'un poème écrit en 1908 par Robert Stanley Weir.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 40"
+  },
+  {
+    "id": "q438",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quel est l'emblème floral du Québec ?",
+    "choices": [
+      "Le lis blanc",
+      "L'iris versicolore",
+      "La rose sauvage",
+      "Le trille blanc"
+    ],
+    "answer": "L'iris versicolore",
+    "explanation": "L'iris versicolore est l'emblème floral du Québec; le trille blanc est celui de l'Ontario.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 47"
+  },
+  {
+    "id": "q439",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quel est l'emblème floral de l'Alberta ?",
+    "choices": [
+      "Le crocus des prairies",
+      "Le lis rouge",
+      "La rose sauvage",
+      "La fleur de mai"
+    ],
+    "answer": "La rose sauvage",
+    "explanation": "La rose sauvage est l'emblème floral de l'Alberta; le crocus des prairies est celui du Manitoba.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 49"
+  },
+  {
+    "id": "q440",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quel est l'emblème floral de Terre-Neuve-et-Labrador ?",
+    "choices": [
+      "La sarracénie pourpre (pitcher plant)",
+      "La violette",
+      "Le sabot de la vierge",
+      "Le cornouiller"
+    ],
+    "answer": "La sarracénie pourpre (pitcher plant)",
+    "explanation": "La sarracénie pourpre, plante carnivore des tourbières, est l'emblème floral de Terre-Neuve-et-Labrador.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 46"
+  },
+  {
+    "id": "q441",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "D'où viennent les deux couleurs du drapeau canadien, selon le guide ?",
+    "choices": [
+      "Le rouge des feuilles d'automne et le blanc de la neige",
+      "Le rouge de la croix de Saint-Georges (Angleterre) et le blanc de l'emblème royal français",
+      "Le rouge de la GRC et le blanc des Prairies",
+      "Le rouge du sang des soldats et le blanc de la paix"
+    ],
+    "answer": "Le rouge de la croix de Saint-Georges (Angleterre) et le blanc de l'emblème royal français",
+    "explanation": "Le guide explique que le rouge provient de la croix de Saint-Georges d'Angleterre et le blanc de l'emblème royal de France.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 38 (Le guide associe le rouge et le blanc à la France et à l’Angleterre et attribue le motif rouge-blanc-rouge au Collège militaire royal de Kingston.)"
+  },
+  {
+    "id": "q447",
+    "module_id": "symboles",
+    "module": "Symboles canadiens",
+    "module_order": 8,
+    "question": "Quand le Québec a-t-il adopté son drapeau, le fleurdelisé ?",
+    "choices": [
+      "Le 1er juillet 1867",
+      "Le 21 janvier 1948",
+      "Le 15 février 1965",
+      "Le 24 juin 1977"
+    ],
+    "answer": "Le 21 janvier 1948",
+    "explanation": "Le fleurdelisé, adopté le 21 janvier 1948, est le premier drapeau provincial officiellement adopté au Canada; le 15 février 1965 correspond au drapeau canadien à la feuille d'érable.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 38"
+  },
+  {
+    "id": "q454",
+    "module_id": "economie",
+    "module": "Économie du Canada",
+    "module_order": 9,
+    "question": "Qu'est-ce qu'une économie de marché, comme celle du Canada ?",
+    "choices": [
+      "Une économie où le gouvernement fixe tous les prix",
+      "Une économie sans aucun commerce extérieur",
+      "Une économie fondée uniquement sur l'agriculture",
+      "Une économie où les prix et la production sont déterminés par l'offre et la demande"
+    ],
+    "answer": "Une économie où les prix et la production sont déterminés par l'offre et la demande",
+    "explanation": "Le Canada a une économie de marché : ce sont l'offre et la demande qui déterminent en grande partie les prix et la production.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 42"
+  },
+  {
+    "id": "q455",
+    "module_id": "economie",
+    "module": "Économie du Canada",
+    "module_order": 9,
+    "question": "L'accord de libre-échange nord-américain (ACEUM) lie le Canada à quels deux pays ?",
+    "choices": [
+      "La Chine et le Japon",
+      "La France et le Royaume-Uni",
+      "Les États-Unis et le Mexique",
+      "Le Brésil et l'Argentine"
+    ],
+    "answer": "Les États-Unis et le Mexique",
+    "explanation": "L'accord de libre-échange nord-américain unit le Canada, les États-Unis et le Mexique et facilite les échanges entre les trois pays.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 42 (La page traite de l’ALENA. L’ACEUM est documenté par Affaires mondiales Canada.)"
+  },
+  {
+    "id": "q461",
+    "module_id": "economie",
+    "module": "Économie du Canada",
+    "module_order": 9,
+    "question": "Quelle région du Canada est surnommée le « grenier du Canada » en raison de ses vastes terres agricoles ?",
+    "choices": [
+      "Les provinces de l'Atlantique",
+      "Le Nord canadien",
+      "Les Prairies",
+      "La côte du Pacifique"
+    ],
+    "answer": "Les Prairies",
+    "explanation": "Le Manitoba, la Saskatchewan et l'Alberta forment les Prairies, surnommées le « grenier du Canada » pour leur immense production agricole.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 48 (Le guide applique le surnom de grenier du monde à la Saskatchewan.)"
+  },
+  {
+    "id": "q466",
+    "module_id": "economie",
+    "module": "Économie du Canada",
+    "module_order": 9,
+    "question": "Comment s'appelle la monnaie du Canada ?",
+    "choices": [
+      "Le peso canadien",
+      "La livre sterling",
+      "Le dollar canadien",
+      "L'euro"
+    ],
+    "answer": "Le dollar canadien",
+    "explanation": "La monnaie du Canada est le dollar canadien, émis par la Banque du Canada, la banque centrale du pays.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 28"
+  },
+  {
+    "id": "q467",
+    "module_id": "economie",
+    "module": "Économie du Canada",
+    "module_order": 9,
+    "question": "Le Canada est membre de quel groupe qui réunit sept des principales économies industrialisées du monde ?",
+    "choices": [
+      "L'OPEP",
+      "Le G7",
+      "L'Union européenne",
+      "Le MERCOSUR"
+    ],
+    "answer": "Le G7",
+    "explanation": "Le Canada fait partie du Groupe des sept (G7), qui réunit sept des principales économies industrialisées de la planète.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 42 (Le PDF présente le G8, qui correspond au contexte historique de cette édition.)"
+  },
+  {
+    "id": "q473",
+    "module_id": "economie",
+    "module": "Économie du Canada",
+    "module_order": 9,
+    "question": "Quel poisson a été au cœur de l'économie de Terre-Neuve pendant des siècles ?",
+    "choices": [
+      "L'espadon",
+      "Le saumon",
+      "Le thon rouge",
+      "La morue"
+    ],
+    "answer": "La morue",
+    "explanation": "La pêche à la morue a fondé l'économie de Terre-Neuve pendant des siècles, attirant les pêcheurs européens dès les débuts de la colonisation.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 46"
+  },
+  {
+    "id": "q474",
+    "module_id": "economie",
+    "module": "Économie du Canada",
+    "module_order": 9,
+    "question": "Quelle province produit la majeure partie du sirop d'érable du Canada ?",
+    "choices": [
+      "L'Ontario",
+      "Le Nouveau-Brunswick",
+      "Le Québec",
+      "La Nouvelle-Écosse"
+    ],
+    "answer": "Le Québec",
+    "explanation": "Le Québec produit la grande majorité du sirop d'érable canadien, un produit emblématique du pays.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 47"
+  },
+  {
+    "id": "q478",
+    "module_id": "economie",
+    "module": "Économie du Canada",
+    "module_order": 9,
+    "question": "Quelle pêche est emblématique de la côte de la Colombie-Britannique ?",
+    "choices": [
+      "La chasse à la baleine",
+      "La pêche au homard",
+      "La pêche au saumon",
+      "La pêche à la morue"
+    ],
+    "answer": "La pêche au saumon",
+    "explanation": "Le saumon du Pacifique est emblématique de la côte de la Colombie-Britannique, tant pour les pêches que pour les cultures autochtones.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 49"
+  },
+  {
+    "id": "q481",
+    "module_id": "economie",
+    "module": "Économie du Canada",
+    "module_order": 9,
+    "question": "Le Canada est l'un des plus grands producteurs mondiaux de quelle forme d'énergie, grâce à ses nombreux barrages ?",
+    "choices": [
+      "L'énergie solaire",
+      "L'hydroélectricité",
+      "L'énergie nucléaire",
+      "L'énergie éolienne"
+    ],
+    "answer": "L'hydroélectricité",
+    "explanation": "Grâce à ses nombreuses rivières et à ses grands barrages, le Canada est l'un des plus importants producteurs d'hydroélectricité au monde.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 42 et 47"
+  },
+  {
+    "id": "q483",
+    "module_id": "economie",
+    "module": "Économie du Canada",
+    "module_order": 9,
+    "question": "Le Nord de l'Ontario est reconnu pour l'exploitation de quel minerai ?",
+    "choices": [
+      "La potasse",
+      "L'amiante",
+      "Le diamant",
+      "Le nickel"
+    ],
+    "answer": "Le nickel",
+    "explanation": "La région de Sudbury, dans le Nord de l'Ontario, est un centre minier reconnu notamment pour l'exploitation du nickel.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 42 et 48"
+  },
+  {
+    "id": "q490",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Dans quelle province canadienne francophone à plus de 80 % le fleuve Saint-Laurent coule-t-il sur la majeure partie de sa longueur ?",
+    "choices": [
+      "Le Nouveau-Brunswick",
+      "Le Québec",
+      "L'Ontario",
+      "Le Manitoba"
+    ],
+    "answer": "Le Québec",
+    "explanation": "Réponse : Le Québec. C'est la plus grande province en superficie terrestre et le cœur historique de la francophonie nord-américaine.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 45 et 47 (Le guide indique que plus des trois quarts des Québécois ont le français comme langue maternelle et décrit la population le long du fleuve.)"
+  },
+  {
+    "id": "q492",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Dans quelle région canadienne retrouve-t-on le plus fort pourcentage de la population vivant en milieu urbain dense ?",
+    "choices": [
+      "Les territoires du Nord",
+      "Les provinces de l'Atlantique",
+      "La région des Grands Lacs et du Saint-Laurent (Centre du Canada)",
+      "Les Prairies"
+    ],
+    "answer": "La région des Grands Lacs et du Saint-Laurent (Centre du Canada)",
+    "explanation": "Réponse : La région des Grands Lacs et du Saint-Laurent (Centre du Canada). Cette zone englobe le corridor Québec-Windsor, incluant Montréal, Ottawa et Toronto.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 44 et 47"
+  },
+  {
+    "id": "q496",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quel est le plus grand territoire du Canada par sa superficie, occupant une place centrale dans le Nord canadien ?",
+    "choices": [
+      "Le Yukon",
+      "Le Nunavut",
+      "Les Territoires du Nord-Ouest",
+      "Le Labrador"
+    ],
+    "answer": "Les Territoires du Nord-Ouest",
+    "explanation": "Réponse : Les Territoires du Nord-Ouest. Sa capitale est Yellowknife, ville connue pour son industrie d'extraction de diamants.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 45 et 50–51 (Patrimoine canadien confirme que le Nunavut est le territoire le plus vaste.)"
+  },
+  {
+    "id": "q504",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle est la principale formation géologique rocheuse qui couvre près de la moitié du territoire canadien en fer à cheval ?",
+    "choices": [
+      "Les Appalaches",
+      "La Cordillère de l'Ouest",
+      "Le Bouclier canadien",
+      "Les Basses-terres du Saint-Laurent"
+    ],
+    "answer": "Le Bouclier canadien",
+    "explanation": "Réponse : Le Bouclier canadien. Cette immense étendue de roches anciennes est très riche en minéraux et entoure la baie d'Hudson.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 15 et 47"
+  },
+  {
+    "id": "q506",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle province des Prairies borde l'ouest de la Colombie-Britannique et abrite les villes de Calgary et Edmonton ?",
+    "choices": [
+      "Le Manitoba",
+      "La Saskatchewan",
+      "L'Alberta",
+      "Le Montana"
+    ],
+    "answer": "L'Alberta",
+    "explanation": "Réponse : L'Alberta. C'est une province riche en pétrole, en élevage de bétail et bordée par les Rocheuses.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 45 et 49 (La carte situe l’Alberta à l’est de la Colombie-Britannique.)"
+  },
+  {
+    "id": "q531",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle ville québécoise se trouve juste en face d’Ottawa, de l’autre côté de la rivière des Outaouais ?",
+    "choices": [
+      "Montréal",
+      "Gatineau",
+      "Sherbrooke",
+      "Laval"
+    ],
+    "answer": "Gatineau",
+    "explanation": "Gatineau, au Québec, forme avec Ottawa la région de la capitale nationale.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 44–45"
+  },
+  {
+    "id": "q545",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Dans quel océan le fleuve Mackenzie se jette-t-il ?",
+    "choices": [
+      "Dans l’océan Atlantique",
+      "Dans l’océan Pacifique",
+      "Dans la baie d’Hudson",
+      "Dans l’océan Arctique"
+    ],
+    "answer": "Dans l’océan Arctique",
+    "explanation": "Le fleuve Mackenzie coule vers le nord et se jette dans l’océan Arctique.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 45 et 50"
+  },
+  {
+    "id": "q548",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Le Bouclier canadien, immense région de roches anciennes, entoure quelle baie ?",
+    "choices": [
+      "La baie de Fundy",
+      "La baie des Chaleurs",
+      "La baie d’Hudson",
+      "La baie d’Ungava"
+    ],
+    "answer": "La baie d’Hudson",
+    "explanation": "Le Bouclier canadien couvre près de la moitié du pays et entoure la baie d’Hudson en forme de fer à cheval.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 45 et 47"
+  },
+  {
+    "id": "q550",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Le Canada est le deuxième pays du monde en superficie. Quel pays occupe le premier rang ?",
+    "choices": [
+      "La Chine",
+      "Les États-Unis",
+      "Le Brésil",
+      "La Russie"
+    ],
+    "answer": "La Russie",
+    "explanation": "Avec près de 10 millions de kilomètres carrés, le Canada est le deuxième pays du monde en superficie, après la Russie.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, page 44"
+  },
+  {
+    "id": "q554",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle est la plus grande province du Canada en superficie ?",
+    "choices": [
+      "L’Ontario",
+      "La Colombie-Britannique",
+      "L’Alberta",
+      "Le Québec"
+    ],
+    "answer": "Le Québec",
+    "explanation": "Le Québec est la plus grande province du Canada en superficie ; l’Ontario est la deuxième.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 45 et 47"
+  },
+  {
+    "id": "q558",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Le lac Winnipeg, l’un des grands lacs du Canada, se trouve dans quelle province ?",
+    "choices": [
+      "En Saskatchewan",
+      "En Ontario",
+      "Au Manitoba",
+      "En Alberta"
+    ],
+    "answer": "Au Manitoba",
+    "explanation": "Le lac Winnipeg se trouve au Manitoba ; ce n’est pas l’un des cinq Grands Lacs.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 45 et 48"
+  },
+  {
+    "id": "q559",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle est la plus grande ville de la Colombie-Britannique ?",
+    "choices": [
+      "Victoria",
+      "Vancouver",
+      "Surrey",
+      "Kelowna"
+    ],
+    "answer": "Vancouver",
+    "explanation": "Vancouver est la plus grande ville de la Colombie-Britannique et un grand port tourné vers l’Asie-Pacifique ; Victoria est la capitale.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 45 et 49"
+  },
+  {
+    "id": "q564",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Quelle province est la deuxième du Canada en superficie, après le Québec ?",
+    "choices": [
+      "L’Ontario",
+      "L’Alberta",
+      "La Colombie-Britannique",
+      "Le Manitoba"
+    ],
+    "answer": "L’Ontario",
+    "explanation": "L’Ontario est la deuxième province en superficie et la première en population.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 45 et 47–48"
+  },
+  {
+    "id": "q571",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Le Grand lac des Esclaves se trouve dans quel territoire ?",
+    "choices": [
+      "Au Yukon",
+      "Dans les Territoires du Nord-Ouest",
+      "Au Nunavut",
+      "En Alberta"
+    ],
+    "answer": "Dans les Territoires du Nord-Ouest",
+    "explanation": "Le Grand lac des Esclaves et le Grand lac de l’Ours se trouvent dans les Territoires du Nord-Ouest.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 45 et 50"
+  },
+  {
+    "id": "q572",
+    "module_id": "regions",
+    "module": "Provinces, territoires et régions",
+    "module_order": 10,
+    "question": "Le fleuve Fraser, théâtre d’une ruée vers l’or en 1858, se trouve dans quelle province ?",
+    "choices": [
+      "En Alberta",
+      "Au Yukon",
+      "En Colombie-Britannique",
+      "En Ontario"
+    ],
+    "answer": "En Colombie-Britannique",
+    "explanation": "Le fleuve Fraser coule en Colombie-Britannique et se jette dans le Pacifique près de Vancouver.",
+    "source": "Hors guide — lecture connexe dans Découvrir le Canada, pages 45 et 49"
+  }
+]
